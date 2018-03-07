@@ -12,3 +12,4 @@ logo : assets/image/mondrian.jpeg
 transition : convex
 published : true
 # footnote : "GitPitch [ Aqua ] Presentation Template"
+background : assets/image/gp-slideshow-room.png
