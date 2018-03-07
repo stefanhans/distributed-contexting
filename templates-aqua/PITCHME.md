@@ -1,4 +1,4 @@
-# Sky
+# Aqua
 
 ### A GitPitch Presentation Template
 
@@ -116,4 +116,5 @@ http.createServer(function (request, response) {
 @title[Download this Template!]
 
 ### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/sky)
+### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/aqua)
+
