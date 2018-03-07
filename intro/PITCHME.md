@@ -1,5 +1,5 @@
 
----?include=intro/what.md
+---?include=what.md
 
----?include=intro/quote.md
+---?include=quote.md
 
