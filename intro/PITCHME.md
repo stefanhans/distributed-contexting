@@ -1,5 +1,5 @@
+### What???
 
----?include=what.md
-
----?include=quote.md
-
+---
+### Digitalisation will take away<br> most of the normal repetitive work!
+---
