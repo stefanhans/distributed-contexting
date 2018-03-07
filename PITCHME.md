@@ -1,6 +1,6 @@
 # Digitalisation
 
-### A Fresh View on Isomorphic Aspect on Technology, Business, and Society
+### A Fresh View on Its Isomorphic Aspects on Technology, Business, and Society
 
 ---
 
