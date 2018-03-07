@@ -2,7 +2,7 @@
 
 ### A Fresh View on Its Isomorphic Aspects on Technology, Business, and Society
 
----?include=intro/PITCHME.md
++++?include=intro/PITCHME.md
 
 ## Tips!
 
