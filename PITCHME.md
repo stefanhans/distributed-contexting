@@ -2,6 +2,9 @@
 
 ### A Fresh View on Its Isomorphic Aspects on Technology, Business, and Society
 
+![0](image=assets/image/buzzer.png) |
+
+
 ---
 
 ## Tips!
