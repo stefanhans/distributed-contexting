@@ -1,6 +1,6 @@
-# Aqua
+# Digitalisation
 
-### A GitPitch Presentation Template
+### A Fresh View on Isomorphic Aspect on Technology, Business, and Society
 
 ---
 
