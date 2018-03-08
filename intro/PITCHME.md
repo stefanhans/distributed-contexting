@@ -16,9 +16,18 @@
 
 ### Reasons for understanding the digitalisation paradigm
 
-- be a winner after digitalisation changed our lives
-- overcome fear and greed
-- had some participation on making the world a better place
+- be a winner after digitalisation changed our lives |
+- doing what you love with existential protection |
+- being creative in a bigger construction of free teams |
+- some participation on making the world a better place |
+
+### ... but that's a bit too optimistic
+
+Optimism is a duty. The future is open. It is not predetermined. No one can predict it, except by chance.
+We all contribute to determining it by what we do. We are all equally responsible for its success.
+
+Karl Popper
+
 
 
 
