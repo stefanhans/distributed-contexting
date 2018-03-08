@@ -1,14 +1,8 @@
-# Digitalization explained clearly and simple!
+## Digitalization explained clearly and simply!
 
 +++?include=fun/PITCHME.md
 
 ---?include=intro/PITCHME.md
-
-### The Scale Cube
-
-![the scale cube](assets/image/scale-cube.png)
-
----
 
 ### The Scale Cube
 

@@ -1,6 +1,8 @@
 # Digitalisation
 
-### And Its Manifestations in<br>Technology, Business, and Society
+### And Its Paradigms |
+### <br> in Technology, Business, and Society |
+### <br>as you can see it |
 
 +++
 
