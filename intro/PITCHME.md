@@ -16,10 +16,10 @@
 
 ### Reasons for understanding the digitalisation paradigm
 
-- be a winner after digitalisation changed our lives |
-- doing what you love with existential protection |
-- being creative in a bigger construction of free teams |
-- some participation on making the world a better place |
+- succeed the digitalisation challenge |
+- gained freedom with existential protection |
+- being creative and working with free teams |
+- participate on making the world a better place |
 
 ### ... but that's a bit too optimistic
 
