@@ -15,11 +15,11 @@
 
 +++
 
-### Why understanding the digitalisation paradigm?
+### Find the digitalisation paradigmand ...
 
 - win the digitalisation challenge |
 - gain freedom with existential protection |
-- being creative and working with free teams |
+- be creative and work with free teams |
 - participate on making the world a better place |
 <ul>
   <li class="fragment" style="list-style-type: none;">But that's a bit too optimistic, isn't it?</li>
