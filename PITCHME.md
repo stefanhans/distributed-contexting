@@ -1,5 +1,5 @@
 
-+++?include=intro/PITCHME.md
+?include=intro/PITCHME.md
 
 ---
 
