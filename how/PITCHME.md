@@ -1,3 +1,10 @@
+# Methodology
+
+- Choose an analogy intuitively |
+- Find a possible paradigm of it |
+- Find other analogies and test the paradigm |
+- Share your ideas |
+- Think about it, make a break, and start again
 
 ### Choose Analogies By Intuition
 
