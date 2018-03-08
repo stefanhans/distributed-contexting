@@ -5,13 +5,8 @@
 +++?include=intro/PITCHME.md
 
 ### The Scale Cube
-<div class="center">
-    <img src="/assets/image/scale-cube.png" alt="the scale cube"> </img><br>
-</div>
 
----
-
-![the scale cube](assets/image/scale-cube.png)
+---?image=assets/image/scale-cube.png&size=auto 90%
 
 ## Tips!
 
