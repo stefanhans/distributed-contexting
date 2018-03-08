@@ -32,11 +32,11 @@ Learning Creative Learning
 
 +++
 
-### Find the Paradigm
+### Find the Paradigm of Cloud Computing
 
-```
-Liberté, Égalité, Fraternité |
-```
+![the scale cube](assets/image/scale-cube.png)
+
++++
 
 
 Find an approach of the simpliest model
