@@ -33,10 +33,18 @@ Learning Creative Learning
 +++
 
 ### Find the Paradigm of Cloud Computing
+
+- Functional Decomposition (Microservices) |
+- Horizontal Duplication (Container) |
+- Data Partitioning (Sharding) |
+
++++
+
 The Scale Cube
 ![the scale cube](assets/image/scale-cube.png)
 
 +++
+
 
 
 Find an approach of the simpliest model
