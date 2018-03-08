@@ -8,16 +8,17 @@
 <ul>
   <li style="list-style-type: none;">This seems to be boring. I'm not motivated.</li>
   <li class="fragment" style="list-style-type: none;">But what is your motivation to be here?</li>
-  <li class="fragment" style="list-style-type: none;">Hmm.../li>
-  <li class="fragment" style="list-style-type: none;">What about this?</li>
+  <li class="fragment" style="list-style-type: none;">Hmm...</li>
+  <li class="fragment" style="list-style-type: none;">Would you like some suggestions about it?</li>
+  <li class="fragment" style="list-style-type: none;">Go ahead</li>
 </ul>
 
 +++
 
 ### Reasons for understanding the digitalisation paradigm
 
-- succeed the digitalisation challenge |
-- gained freedom with existential protection |
+- win the digitalisation challenge |
+- gain freedom with existential protection |
 - being creative and working with free teams |
 - participate on making the world a better place |
 
