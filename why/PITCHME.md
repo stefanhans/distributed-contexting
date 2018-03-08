@@ -17,9 +17,9 @@
 
 ### Find today's digitalization paradigm and ...
 
-- win the digitalization challenge |
+- win today's digitalization challenge |
 - gain freedom with existential protection |
-- be creative and work with free teams |
+- be creative and work in global teams |
 - participate on making the world a better place |
 <ul>
   <li class="fragment" style="list-style-type: none;">But that's a bit too optimistic, isn't it?</li>
