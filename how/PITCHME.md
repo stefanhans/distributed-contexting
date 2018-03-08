@@ -6,6 +6,8 @@
 - Share your ideas |
 - Think about it, make a break, and start again
 
++++
+
 ### Choose Analogies By Intuition
 
 - Biological Swarm |
