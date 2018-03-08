@@ -1,4 +1,4 @@
-## Digitalization explained clearly and simply!
+## Digitalization explained<br>clearly and simply!
 
 +++?include=fun/PITCHME.md
 

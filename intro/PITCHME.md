@@ -1,8 +1,8 @@
 # Digitalisation
 
-### And Its Paradigms |
-### <br> in Technology, Business, and Society |
-### <br>as you can see it |
+### And Its Paradigms
+### <br>in Technology, Business, and Society
+### <br>as you can understand it
 
 +++
 
