@@ -5,6 +5,11 @@
 
 +++
 
+    This seems to be boring. We should I be motivated? |
+    This seems to be boring. We should I be motivated? |
+
+
+
 ### Choose Analogies By Intuition
 
 - Biological Swarm |
@@ -19,7 +24,7 @@
 ### Find the Paradigm
 
 ```
-Liberté, Égalité, Fraternité
+Liberté, Égalité, Fraternité |
 ```
 
 
