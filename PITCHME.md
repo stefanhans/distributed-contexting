@@ -1,6 +1,11 @@
 
 ![digitalization eats your job](assets/image/digitalization-eats-your-job.jpg)
 
++++
+
+![digitalization solves all our problems](assets/image/digitalization-solves-all-our-problems.jpg)
+
+
 ---?include=intro/PITCHME.md
 
 ---
