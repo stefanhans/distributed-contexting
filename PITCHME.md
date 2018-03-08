@@ -4,8 +4,6 @@
 
 +++?include=intro/PITCHME.md
 
-The Scale Cube seen from a microservice perspective
-
 ![the scale cube](assets/image/scale-cube.png)
 
 ---
