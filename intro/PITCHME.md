@@ -5,7 +5,7 @@
 
 +++
 
-### Phenotypes to get an idea
+### Choose Analogies By Intuition
 
 - Biological Swarm |
 - Cloud Computing |
@@ -16,7 +16,11 @@
 
 +++
 
-### 1. The Abstraction
+### Find the Paradigm
+
+```
+Liberté, Égalité, Fraternité
+```
 
 
 Find an approach of the simpliest model
