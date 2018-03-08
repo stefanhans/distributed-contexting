@@ -1,8 +1,11 @@
-# Digitalisation
-
-### A Fresh View on Its Isomorphic Aspects on Technology, Business, and Society
 
 +++?include=intro/PITCHME.md
+
+---
+
+### The Scale Cube
+
+![the scale cube](assets/image/scale-cube.png)
 
 ---
 
