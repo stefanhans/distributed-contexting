@@ -5,6 +5,10 @@
 
 ![digitalization solves all our problems](assets/image/digitalization-solves-all-our-problems.jpg)
 
++++
+
+![digitalization erasures mankind](assets/image/digitalization-erasures-mankind.jpg)
+
 
 ---?include=intro/PITCHME.md
 
