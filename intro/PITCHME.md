@@ -1,6 +1,6 @@
 # Digitalisation
 
-### Its Manifestations in Technology, Business, and Society
+### And Its Manifestations in<br>Technology, Business, and Society
 
 +++
 
