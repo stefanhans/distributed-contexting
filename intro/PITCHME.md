@@ -21,8 +21,9 @@
 - gain freedom with existential protection |
 - being creative and working with free teams |
 - participate on making the world a better place |
-
-### But that's a bit too optimistic, isn't it? |
+<ul>
+  <li class="fragment" style="list-style-type: none;">But that's a bit too optimistic, isn't it?</li>
+</ul>
 
 +++
 
