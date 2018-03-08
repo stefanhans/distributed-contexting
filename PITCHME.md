@@ -6,10 +6,9 @@
 
 ---?include=how/PITCHME.md
 
-### The Scale Cube
+---?include=what/PITCHME.md
 
-![the scale cube](assets/image/scale-cube.png)
-
+---
 ---
 
 ## Tips!
