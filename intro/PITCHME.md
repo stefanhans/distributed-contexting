@@ -1,12 +1,12 @@
-# Digitalisation
+# The Digitalisation Paradigm
 
-### and Its Analogies and Paradigms
-### in Nature, Technology, Business, and Society
+### and its Analogies in
+### Nature, Technology, Business, and Society
 
 +++
 
 <ul>
-  <li class="fragment">This seems to be boring. I'm not motivated.</li>
+  <li class="fragment" style="list-style-type: none;">This seems to be boring. I'm not motivated.</li>
   <li class="fragment">But what is your motivation to be here?</li>
   <li class="fragment">Hmm.../li>
   <li class="fragment">What about this?</li>
@@ -14,7 +14,11 @@
 
 +++
 
-### Be a winner after digitalisation changes, overcome fear and greed, and had some participation on saving the world
+### Reasons for understanding the digitalisation paradigm
+
+- be a winner after digitalisation changed our lives
+- overcome fear and greed
+- had some participation on making the world a better place
 
 
 
