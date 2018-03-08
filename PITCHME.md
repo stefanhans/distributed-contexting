@@ -6,7 +6,7 @@
 
 ### The Scale Cube
 <div class="center">
-    <img src="assets/image/scale-cube.png" alt="the scale cube"> </img><br>
+    <img src="/assets/image/scale-cube.png" alt="the scale cube"> </img><br>
 </div>
 
 ---
