@@ -1,4 +1,4 @@
-# The Digitalisation Paradigm
+## The Digitalisation Paradigm
 
 ### and its Analogies in
 ### Nature, Technology, Business, and Society
@@ -21,6 +21,8 @@
 - had some participation on making the world a better place
 
 
+
++++
 
 ### Choose Analogies By Intuition
 
