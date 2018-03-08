@@ -13,9 +13,12 @@
 
 ### Phenotypes to get an idea
 
-- Swarm |
-- Cloud |
+- Biological Swarm |
+- Cloud Computing |
 - Artificial Neural Networks |
+- Holacracy |
+- Universal Basic Income |
+- Global Society |
 
 ### 1. The Abstraction
 
