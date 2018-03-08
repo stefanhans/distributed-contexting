@@ -18,6 +18,10 @@ and its four greatest consequences!
 
 ![digitalization changed my life](assets/image/digitalization-changed-my-life.jpg)
 
++++
+
+![that was the fun part dont ask to see it again](assets/image/that-was-the-fun-part-dont-ask-to-see-it-again.jpg)
+
 
 ---?include=intro/PITCHME.md
 
