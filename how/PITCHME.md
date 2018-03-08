@@ -1,10 +1,19 @@
-# Methodology
+## Methodology
 
 - Choose an analogy intuitively |
 - Find a possible paradigm of it |
 - Find other analogies and test the paradigm |
 - Share your ideas |
-- Think about it, make a break, and start again
+- Think about it, make a break, and start again |
+<ul>
+  <li class="fragment" style="list-style-type: none;"><br>Reminds me of something...</li>
+</ul>
+
++++
+
+Learning Creative Learning
+
+![Learning Creative Learning](assets/image/learningCreativeLearning.png)
 
 +++
 
@@ -29,10 +38,3 @@ Liberté, Égalité, Fraternité |
 Find an approach of the simpliest model
 
 +++
-
-
-+++
-
-Learning Creative Learning
-
-![Learning Creative Learning](assets/image/learningCreativeLearning.png)
