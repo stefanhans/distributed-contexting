@@ -1,4 +1,4 @@
-## The Digitalisation Paradigm
+## The Digitalization Paradigm
 
 ### and its Analogies in
 ### Nature, Technology, Business, and Society
@@ -15,9 +15,9 @@
 
 +++
 
-### Find the digitalisation paradigmand ...
+### Find today's digitalization paradigm and ...
 
-- win the digitalisation challenge |
+- win the digitalization challenge |
 - gain freedom with existential protection |
 - be creative and work with free teams |
 - participate on making the world a better place |
