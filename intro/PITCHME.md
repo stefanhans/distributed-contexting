@@ -26,6 +26,6 @@ Find an approach of the simpliest model
 
 +++
 
-### 1. Methodology
+Learning Creative Learning
 
 ![Learning Creative Learning](assets/image/learningCreativeLearning.png)
