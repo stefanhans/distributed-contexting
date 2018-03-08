@@ -15,9 +15,9 @@
 
 +++
 
-### Reasons for understanding the digitalisation paradigm
+### Why understanding the digitalisation paradigm?
 
-- win the digitalisation challenge
+- win the digitalisation challenge |
 - gain freedom with existential protection |
 - being creative and working with free teams |
 - participate on making the world a better place |
