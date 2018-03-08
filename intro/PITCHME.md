@@ -21,6 +21,8 @@
 - being creative and working with free teams |
 - participate on making the world a better place |
 
++++
+
 ### ... but that's a bit too optimistic
 
 Optimism is a duty. The future is open. It is not predetermined. No one can predict it, except by chance.
