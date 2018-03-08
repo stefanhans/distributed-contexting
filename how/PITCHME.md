@@ -6,7 +6,7 @@
 - Share your ideas |
 - Think about it, make a break, and start again |
 <ul>
-  <li class="fragment" style="list-style-type: none;">That reminds me of something.</li>
+  <li class="fragment" style="list-style-type: none;">Does that remind you of something?</li>
 </ul>
 
 +++
