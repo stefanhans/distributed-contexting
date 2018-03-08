@@ -22,9 +22,10 @@
 - being creative and working with free teams |
 - participate on making the world a better place |
 
+### But that's a bit too optimistic, isn't it? |
+
 +++
 
-### But that's a bit too optimistic, isn't it?
 
 > Optimism is a duty. The future is open. It is not predetermined. No one can predict it, except by chance.
 > We all contribute to determining it by what we do. We are all equally responsible for its success."
