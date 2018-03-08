@@ -1,3 +1,8 @@
+# Digitalization
+
+and its four greatest consequences!
+
++++
 
 ![digitalization eats your job](assets/image/digitalization-eats-your-job.jpg)
 
