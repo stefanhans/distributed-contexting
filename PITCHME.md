@@ -1,5 +1,7 @@
 
-?include=intro/PITCHME.md
+![digitalization eats your job](assets/image/digitalization-eats-your-job.jpg)
+
+---?include=intro/PITCHME.md
 
 ---
 
