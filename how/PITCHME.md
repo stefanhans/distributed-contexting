@@ -33,7 +33,7 @@ Learning Creative Learning
 +++
 
 ### Find the Paradigm of Cloud Computing
-
+The Scale Cube
 ![the scale cube](assets/image/scale-cube.png)
 
 +++
