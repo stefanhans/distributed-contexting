@@ -7,7 +7,7 @@
 
 ### 1. Methodology
 
-![Learning Creative Learning](assets/image/learningCreativeLearning.jpg)
+![Learning Creative Learning](assets/image/learningCreativeLearning.png)
 
 +++
 
