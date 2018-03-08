@@ -9,6 +9,10 @@
 
 ![digitalization erasures mankind](assets/image/digitalization-erasures-mankind.jpg)
 
++++
+
+![digitalization changed my life](assets/image/digitalization-changed-my-life.jpg)
+
 
 ---?include=intro/PITCHME.md
 
