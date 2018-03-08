@@ -6,7 +6,7 @@
 
 ### The Scale Cube
 
----?image=assets/image/scale-cube.png&size=auto 90%
+![the scale cube](assets/image/scale-cube.png)
 
 ---
 
