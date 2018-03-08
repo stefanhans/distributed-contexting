@@ -4,7 +4,7 @@
 
 +++?include=intro/PITCHME.md
 
-### The Scale Cube
+The Scale Cube
 
 ![the scale cube](assets/image/scale-cube.png)
 
