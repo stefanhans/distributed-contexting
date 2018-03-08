@@ -6,10 +6,10 @@
 +++
 
 <ul>
-  <li class="fragment" style="list-style-type: none;">This seems to be boring. I'm not motivated.</li>
-  <li class="fragment">But what is your motivation to be here?</li>
-  <li class="fragment">Hmm.../li>
-  <li class="fragment">What about this?</li>
+  <li style="list-style-type: none;">This seems to be boring. I'm not motivated.</li>
+  <li class="fragment" style="list-style-type: none;">But what is your motivation to be here?</li>
+  <li class="fragment" style="list-style-type: none;">Hmm.../li>
+  <li class="fragment" style="list-style-type: none;">What about this?</li>
 </ul>
 
 +++
