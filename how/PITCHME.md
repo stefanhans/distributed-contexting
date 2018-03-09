@@ -63,3 +63,7 @@ Learning Creative Learning
 
 
 ---
+
+The Reactive Manifesto
+
+![The Reactive Manifesto](assets/image/reactive-manifesto.png)
