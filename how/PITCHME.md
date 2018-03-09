@@ -31,7 +31,7 @@ Learning Creative Learning
 - Universal Basic Income |
 - Global Society |
 <ul>
-  <li class="fragment" style="list-style-type: none;"><br>I pick my home turf - Cloud Computing.</li>
+  <li class="fragment" style="list-style-type: none;"><br><br>I pick my home turf - Cloud Computing.</li>
 </ul>
 
 ---
