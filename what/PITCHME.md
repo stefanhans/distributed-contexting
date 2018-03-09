@@ -16,6 +16,7 @@ There is a happy path to reach the optimistic goals
 
 ---
 
+### ... and have fun ...
 
 ![party](assets/image/party-edm.gif)
 
