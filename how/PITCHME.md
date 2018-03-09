@@ -2,6 +2,11 @@
 
 <ul>
   <li class="fragment"><b>Imagine</b> an analogy for digitalization</li>
+  <li class="fragment"><b>Create</b> or find a possible paradigm of it</li>
+  <li class="fragment"><b>Play</b> with its abstractions and other analogies</li>
+  <li class="fragment"><b>Share</b> your ideas with others</li>
+  <li class="fragment"><b>Reflect</b>, make a break, and start again</li>
+
   <li class="fragment" style="list-style-type: none;">Does that remind you of something?</li>
 </ul>
 
