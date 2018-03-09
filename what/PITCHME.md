@@ -10,5 +10,6 @@ There is a happy path to reach the optimistic goals
 
 <br>
 <ul>
-  <li class="fragment" style="list-style-type: none;">And if you wanna ask "but, it already exists"<br>or "who needs this?" come and let's find it out.</li>
+  <li class="fragment" style="list-style-type: none;">And if you wanna ask "But, it already exists?"
+  <br>or "Who needs this?" come and let's find out.</li>
 </ul>
