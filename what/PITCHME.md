@@ -13,3 +13,10 @@ There is a happy path to reach the optimistic goals
   <li class="fragment" style="list-style-type: none;">And if you wanna ask "But, it already exists?"
   <br>or "Who needs this?" come and let's find out.</li>
 </ul>
+
+---
+
+
+![party](assets/image/party-edm.gif)
+
+
