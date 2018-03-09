@@ -4,5 +4,3 @@
 
 ![the scale cube](assets/image/scale-cube.png)
 
----
-

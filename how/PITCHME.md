@@ -2,6 +2,7 @@
 
 - Choose an analogy intuitively |
 - Find a possible paradigm of it |
+- Play with abstractions |
 - Find other analogies and test the paradigm |
 - Share your ideas |
 - Think about it, make a break, and start again |
@@ -49,8 +50,6 @@ Learning Creative Learning
 
 ---
 
-
-
-Find an approach of the simpliest model
+### Play with abstractions
 
 ---
