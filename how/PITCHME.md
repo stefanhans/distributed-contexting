@@ -52,10 +52,10 @@ Learning Creative Learning
 
 ### Play with Abstractions (and Other Analogies)
 
+- Extend the picture, e.g. IaaS, APIs, frontend |
+- Focus on the important aspects, e.g. availability, resilience |
+- Find other paradigms, e.g. Reactive Manifesto |
 <ul>
-  <li class="fragment">Extend the picture, <i>e.g. IaaS, APIs, frontend</i></li>
-  <li class="fragment">Focus on the important aspects, <i>e.g. availability, resilience</i></li>
-  <li class="fragment">Find other paradigms, <i>e.g. Reactive Manifesto</i></li>
   <li class="fragment" style="list-style-type: none;">Reactive Manifesto? Can you explain it?</li>
 </ul>
 
