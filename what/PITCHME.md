@@ -17,6 +17,14 @@ There is a happy path to reach the optimistic goals
 
 
 
+
+
+---
+### ... and fun ...
+
+<iframe src="https://giphy.com/embed/6qkm0gJaIzzEs" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+
 ---
 
 ### ... and have fun ...
@@ -36,14 +44,6 @@ There is a happy path to reach the optimistic goals
 ### ... and have fun ...
 
 ![party](assets/image/giphy-3.gif)
-
-
----
-### ... and have fun ...
-
-<iframe src="https://giphy.com/embed/6qkm0gJaIzzEs" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-
 ---
 
 <iframe src="https://giphy.com/embed/FziA2MQGhBP6o" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dancing-party-people-FziA2MQGhBP6o">via GIPHY</a></p>
