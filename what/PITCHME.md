@@ -21,3 +21,12 @@ There is a happy path to reach the optimistic goals
 ![party](assets/image/party-edm.gif)
 
 
+
+
+---
+
+### ... and have fun ...
+
+![party](assets/image/giphy.gif)
+
+
