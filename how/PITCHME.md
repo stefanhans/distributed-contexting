@@ -29,6 +29,9 @@ Learning Creative Learning
 - Holacracy |
 - Universal Basic Income |
 - Global Society |
+<ul>
+  <li class="fragment" style="list-style-type: none;">I pick my home turf - Cloud Computing.</li>
+</ul>
 
 ---
 
