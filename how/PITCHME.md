@@ -56,7 +56,7 @@ Learning Creative Learning
 - Importance of aspects, e.g. availability, resilience |
 - Other paradigms, e.g. Reactive Manifesto |
 <ul>
-  <li class="fragment" style="list-style-type: none;">Reactive Manifesto? Can you explain it?</li>
+  <li class="fragment" style="list-style-type: none;"><br>Reactive Manifesto? Can you explain it?</li>
 </ul>
 
 
