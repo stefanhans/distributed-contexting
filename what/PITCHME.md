@@ -21,7 +21,7 @@ There is a happy path to reach the optimistic goals
 
 ### ... and have fun ...
 
-![party](assets/image/giphy (1).gif)
+![party](assets/image/giphy-1.gif)
 
 
 
