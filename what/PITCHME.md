@@ -14,24 +14,11 @@ There is a happy path to reach the optimistic goals
   <br>or "Who needs this?" come and let's find out.</li>
 </ul>
 
-
-
-
-
-
 ---
+
 ### ... and have fun ...
 
 <iframe src="https://giphy.com/embed/6qkm0gJaIzzEs" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-
----
-
-### ... and fun ...
-
-<iframe src="https://giphy.com/embed/6qkm0gJaIzzEs" width="360" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-
 
 ---
 
@@ -44,7 +31,3 @@ There is a happy path to reach the optimistic goals
 ### ... and fun ...
 
 ![party](assets/image/giphy-3.gif)
----
-
-<iframe src="https://giphy.com/embed/FziA2MQGhBP6o" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dancing-party-people-FziA2MQGhBP6o">via GIPHY</a></p>
-
