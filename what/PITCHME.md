@@ -20,14 +20,14 @@ There is a happy path to reach the optimistic goals
 
 
 ---
-### ... and fun ...
+### ... and have fun ...
 
 <iframe src="https://giphy.com/embed/6qkm0gJaIzzEs" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 ---
 
-### ... and have fun ...
+### ... and fun ...
 
 <iframe src="https://giphy.com/embed/6qkm0gJaIzzEs" width="360" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -35,13 +35,13 @@ There is a happy path to reach the optimistic goals
 
 ---
 
-### ... and have fun ...
+### ... and fun ...
 
 ![party](assets/image/giphy-2.gif)
 
 ---
 
-### ... and have fun ...
+### ... and fun ...
 
 ![party](assets/image/giphy-3.gif)
 ---
