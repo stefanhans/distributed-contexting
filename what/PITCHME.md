@@ -40,6 +40,8 @@ There is a happy path to reach the optimistic goals
 
 
 ---
-<iframe src="https://giphy.com/embed/6qkm0gJaIzzEs" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/party-office-6qkm0gJaIzzEs">via GIPHY</a></p>
+### ... and have fun ...
+
+<iframe src="https://giphy.com/embed/6qkm0gJaIzzEs" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
