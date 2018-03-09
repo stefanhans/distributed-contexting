@@ -3,7 +3,7 @@
 ### and its Analogies in
 ### Nature, Technology, Business, and Society
 
-+++
+---
 
 <ul>
   <li style="list-style-type: none;">This seems to be boring. I'm not motivated.</li>
@@ -13,7 +13,7 @@
   <li class="fragment" style="list-style-type: none;">Go ahead.</li>
 </ul>
 
-+++
+---
 
 ### Find today's digitalization paradigm and ...
 
@@ -25,7 +25,7 @@
   <li class="fragment" style="list-style-type: none;">But that's a bit too optimistic, isn't it?</li>
 </ul>
 
-+++
+---
 
 ![digitalization changed my life](assets/image/quote-optimism-is-a-duty-the-future-is-open-it-is-not-predetermined-no-one-can-predict-it-karl-popper-146-31-11.jpg)
 

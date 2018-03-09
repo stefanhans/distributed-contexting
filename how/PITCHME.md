@@ -9,7 +9,7 @@
   <li class="fragment" style="list-style-type: none;">Does that remind you of something?</li>
 </ul>
 
-+++
+---
 
 Learning Creative Learning
 
@@ -19,7 +19,7 @@ Learning Creative Learning
 </ul>
 
 
-+++
+---
 
 ### Choose Analogies By Intuition
 
@@ -30,7 +30,7 @@ Learning Creative Learning
 - Universal Basic Income |
 - Global Society |
 
-+++
+---
 
 ### Find the Paradigm of Cloud Computing
 
@@ -38,16 +38,16 @@ Learning Creative Learning
 - Horizontal Duplication (Container) |
 - Data Partitioning (Sharding) |
 
-+++
+---
 
 ### The Scale Cube
 
 ![the scale cube](assets/image/scale-cube.png)
 
-+++
+---
 
 
 
 Find an approach of the simpliest model
 
-+++
+---
