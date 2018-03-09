@@ -2,7 +2,7 @@
 
 - **Imagine** an analogy for digitalization |
 - **Create** or find a possible paradigm of it |
-- **Play** with its abstractions in relation to other analogies |
+- **Play** with its abstractions and other analogies |
 - **Share** your ideas |
 - **Reflect**, make a break, and start again |
 
