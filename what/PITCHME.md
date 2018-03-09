@@ -14,12 +14,14 @@ There is a happy path to reach the optimistic goals
   <br>or "Who needs this?" come and let's find out.</li>
 </ul>
 
+
+
+
 ---
 
 ### ... and have fun ...
 
-![party](assets/image/party-edm.gif)
-
+![party](assets/image/giphy(1).gif)
 
 
 
@@ -28,5 +30,12 @@ There is a happy path to reach the optimistic goals
 ### ... and have fun ...
 
 ![party](assets/image/giphy.gif)
+
+
+---
+
+### ... and have fun ...
+
+![party](assets/image/party-edm.gif)
 
 
