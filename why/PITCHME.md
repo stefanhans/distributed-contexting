@@ -27,11 +27,7 @@
 
 +++
 
-
-> Optimism is a duty. The future is open. It is not predetermined. No one can predict it, except by chance.
-> We all contribute to determining it by what we do. We are all equally responsible for its success."
-
-by Karl Popper
+![digitalization changed my life](assets/image/quote-optimism-is-a-duty-the-future-is-open-it-is-not-predetermined-no-one-can-predict-it-karl-popper-146-31-11.jpg)
 
 
 
