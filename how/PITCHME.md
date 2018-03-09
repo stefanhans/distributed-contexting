@@ -59,9 +59,6 @@ Learning Creative Learning
   <li class="fragment" style="list-style-type: none;"><br>Reactive Manifesto? Can you explain it?</li>
 </ul>
 
-
-
-
 ---
 
 The Reactive Manifesto
