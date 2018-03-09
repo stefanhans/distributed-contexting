@@ -22,7 +22,7 @@
 - be creative and work in global teams |
 - participate on making the world a better place |
 <ul>
-  <li class="fragment" style="list-style-type: none;">But that's a bit too optimistic, isn't it?</li>
+  <li class="fragment" style="list-style-type: none;"><br>But that's a bit too optimistic, isn't it?</li>
 </ul>
 
 ---
