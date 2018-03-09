@@ -1,12 +1,7 @@
 ## Methodology
 
-- **Imagine** an analogy for digitalization |
-- **Create** or find a possible paradigm of it |
-- **Play** with its abstractions and other analogies |
-- **Share** your ideas |
-- **Reflect**, make a break, and start again |
-
 <ul>
+  <li class="fragment"><b>Imagine</b> an analogy for digitalization</li>
   <li class="fragment" style="list-style-type: none;">Does that remind you of something?</li>
 </ul>
 
