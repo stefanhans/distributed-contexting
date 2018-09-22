@@ -1,7 +1,7 @@
-## The Digitalization Paradigm
+## Distributed Contexting
 
-### and its Analogies in
-### Nature, Technology, Business, and Society
+### a vision to combine some paradigms of
+### cutting-edge technologies on a new level
 
 ---
 
