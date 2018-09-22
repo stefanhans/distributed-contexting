@@ -2,7 +2,7 @@
 
 Take a step back... and think ahead
 
----?include=fun/PITCHME.md
+---?include=intro/PITCHME.md
 
 ---?include=why/PITCHME.md
 
