@@ -1,6 +1,6 @@
 ## Distributed Contexting
 
-one step back and look ahead!
+Take a step back... and think ahead
 
 ---?include=fun/PITCHME.md
 
