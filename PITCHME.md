@@ -1,4 +1,6 @@
-## Distributed Contexting<br>one step back and look ahead!
+## Distributed Contexting
+
+one step back and look ahead!
 
 ---?include=fun/PITCHME.md
 
