@@ -1,13 +1,6 @@
-## Distributed Contexting
-
-### a vision to combine some paradigms of
-### cutting-edge technologies on a new level
-
----
-
 <ul>
-  <li style="list-style-type: none;">This seems to be boring. I'm not motivated.</li>
-  <li class="fragment" style="list-style-type: none;">But what is your motivation to be here?</li>
+  <li style="list-style-type: none;">### What do we have?</li>
+  <li class="fragment" style="list-style-type: none;">Container Paradigm: language-agnostic</li>
   <li class="fragment" style="list-style-type: none;">Hmm...</li>
   <li class="fragment" style="list-style-type: none;">Would you like some suggestions about it?</li>
   <li class="fragment" style="list-style-type: none;">Go ahead.</li>
@@ -30,4 +23,6 @@
 ![digitalization changed my life](assets/image/quote-optimism-is-a-duty-the-future-is-open-it-is-not-predetermined-no-one-can-predict-it-karl-popper-146-31-11.jpg)
 
 
+
+// Take a step back... and think ahead
 
