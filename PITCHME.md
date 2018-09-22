@@ -1,4 +1,4 @@
-## Digitalization explained<br>clearly and simply!
+## Distributed Contexting<br>one step back and look ahead!
 
 ---?include=fun/PITCHME.md
 
