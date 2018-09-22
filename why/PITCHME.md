@@ -1,9 +1,10 @@
 <ul>
-  <li style="list-style-type: none;">### What do we have?</li>
-  <li class="fragment" style="list-style-type: none;">Container Paradigm: language-agnostic</li>
-  <li class="fragment" style="list-style-type: none;">Hmm...</li>
-  <li class="fragment" style="list-style-type: none;">Would you like some suggestions about it?</li>
-  <li class="fragment" style="list-style-type: none;">Go ahead.</li>
+  <li style="list-style-type: none;">What do <b>we</b> have?</li>
+  <li class="fragment" style="list-style-type: none;">Network: transport, routing, services</li>
+  <li class="fragment" style="list-style-type: none;">Container: "run it everywhere"</li>
+  <li class="fragment" style="list-style-type: none;">Edge Computing: </li>
+  <li class="fragment" style="list-style-type: none;">Peer-to-peer: </li>
+  <li class="fragment" style="list-style-type: none;">Blockchain, Machine Learning, ...</li>
 </ul>
 
 ---
