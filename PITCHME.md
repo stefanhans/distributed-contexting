@@ -3,7 +3,7 @@
 ### a vision to combine some paradigms of
 ### cutting-edge technologies on a new level
 
---
+---
 
 ![Distributed Contexting](assets/image/Distributed-Contexting.png)
 
