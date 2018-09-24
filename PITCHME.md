@@ -5,7 +5,7 @@
 
 ---
 
-![Distributed Contexting](assets/image/Distributed-Contexting.jpg)
+![Distributed Contexting](assets/image/Distributed-Contexting.png)
 
 ---?include=intro/PITCHME.md
 
