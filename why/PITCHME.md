@@ -13,9 +13,9 @@
 
 - reactive, cost-free, and inherently created |
 - unlimited context domain |
+- edge aware |
 - language-agnostic |
 - plugin architecture |
-- highly automated programming systems (IDE) |
 - extensible for Blockchain, Machine Learning... |
 
 ---
