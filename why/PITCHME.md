@@ -18,6 +18,19 @@
 - plugin architecture |
 - extensible for Blockchain, Machine Learning... |
 
++++
+
+The Reactive Manifesto
+
+![The Reactive Manifesto](assets/image/reactive-manifesto.png)
+
++++
+
+Unlimited Context Domain
+
+![The Reactive Manifesto](assets/image/binary-tree.jpeg)
+
+
 +++ 
 
 ### Find today's digitalization paradigm and ...
