@@ -16,7 +16,7 @@
 - language-agnostic |
 - plugin architecture |
 - highly automated programming systems (IDE) |
-- extensible for Blockchain, Machine Learning, ... |
+- extensible for Blockchain, Machine Learning ... |
 
 ---
 
