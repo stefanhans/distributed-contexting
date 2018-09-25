@@ -1,10 +1,10 @@
 <ul>
-  <li style="list-style-type: none;">What do <b>we</b> have?</li>
-  <li class="fragment" style="list-style-type: none;">Network: transport, routing, services</li>
-  <li class="fragment" style="list-style-type: none;">Container: "run it everywhere"</li>
-  <li class="fragment" style="list-style-type: none;">Edge Computing: </li>
-  <li class="fragment" style="list-style-type: none;">Peer-to-peer: </li>
-  <li class="fragment" style="list-style-type: none;">Blockchain, Machine Learning, ...</li>
+  <li style="list-style-type: none;">The vision is a distributed system as follows</li>
+  <li class="fragment" style="list-style-type: none;">a reactive, cost-free, and inherently created backend</li>
+  <li class="fragment" style="list-style-type: none;">unlimited context domain</li>
+  <li class="fragment" style="list-style-type: none;">language-agnostic</li>
+  <li class="fragment" style="list-style-type: none;">implementable in highly automated programming systems (IDE)</li>
+  <li class="fragment" style="list-style-type: none;">open for others like Blockchain, Machine Learning, ...</li>
 </ul>
 
 ---
