@@ -1,14 +1,3 @@
-<ul>
-  <li style="list-style-type: none;">The vision is a distributed system as follows</li>
-  <li class="fragment" style="list-style-type: none;">    a reactive, cost-free, and inherently created backend</li>
-  <li class="fragment" style="list-style-type: none;">unlimited context domain</li>
-  <li class="fragment" style="list-style-type: none;">language-agnostic</li>
-  <li class="fragment" style="list-style-type: none;">implementable in highly automated programming systems (IDE)</li>
-  <li class="fragment" style="list-style-type: none;">  open for Blockchain, Machine Learning, ...</li>
-</ul>
-
----
-
 ### Vision a distributed system as follows
 
 - reactive, cost-free, and inherently created |
@@ -31,7 +20,7 @@ Unlimited Context Domain
 ![The Reactive Manifesto](assets/image/binary-tree.jpeg)
 
 
-+++ 
+--- 
 
 ### Find today's digitalization paradigm and ...
 
