@@ -18,7 +18,7 @@
 - plugin architecture |
 - extensible for Blockchain, Machine Learning... |
 
----
++++ 
 
 ### Find today's digitalization paradigm and ...
 
