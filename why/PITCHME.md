@@ -9,12 +9,12 @@
 
 ---
 
-### The vision is a distributed system as follows
+### Vision a distributed system as follows
 
-- a reactive, cost-free, and inherently created backend
+- reactive, cost-free, and inherently created
 - unlimited context domain
 - language-agnostic
-- implementable in highly automated programming systems (IDE)
+- highly automated programming systems (IDE)
 - open for Blockchain, Machine Learning, ...
 
 ---
