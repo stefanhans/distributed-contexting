@@ -11,11 +11,11 @@
 
 ### Vision a distributed system as follows
 
-- reactive, cost-free, and inherently created
-- unlimited context domain
-- language-agnostic
-- highly automated programming systems (IDE)
-- open for Blockchain, Machine Learning, ...
+- reactive, cost-free, and inherently created |
+- unlimited context domain |
+- language-agnostic |
+- highly automated programming systems (IDE) |
+- open for Blockchain, Machine Learning, ... |
 
 ---
 
