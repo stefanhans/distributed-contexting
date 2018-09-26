@@ -1,4 +1,4 @@
-### Distributed Contexting
+# Distributed Contexting
 
 ![animated-network-sphere](assets/image/animated-network-sphere.gif)
 
