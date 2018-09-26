@@ -2,9 +2,9 @@
 
 - reactive, cost-free, and inherently created |
 - unlimited context domain |
-- edge aware |
+- edge aware infrastructure |
 - encrypted by design |
-- protocol based and language-agnostic |
+- protocol-based and language-agnostic |
 - plugin architecture |
 - extensible for Blockchain, Machine Learning |
 
