@@ -7,43 +7,13 @@
 - protocol-based and language-agnostic |
 - plugin architecture |
 - extensible for Blockchain, Machine Learning |
-
-
----
-
-Learning Creative Learning
-
-![Learning Creative Learning](assets/image/learningCreativeLearning.png)
 <ul>
-  <li class="fragment" style="list-style-type: none;">Okay, let's start.</li>
+  <li class="fragment" style="list-style-type: none;">https://github.com/stefanhans/golang-contexting</li>
 </ul>
 
++++
 
----
-
-### Choose Analogies By Intuition
-
-@ul
-
-- Plain text list item @note[Cool! Fragment specific speaker notes :)]
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
-
-@ulend
-
----
-
-[within](https://gitpitch.com)
-
----
-
-<iframe class="stretch" data-src="https://github.com/stefanhans/golang-contexting"></iframe>
-
-
-
----
-
-### Find the Paradigm of Cloud Computing
+### the binary double strand
 
 - Functional Decomposition (Microservices) |
 - Horizontal Duplication (Container) |
