@@ -4,7 +4,7 @@
 - unlimited context domain |
 - edge aware |
 - encrypted by design |
-- language-agnostic |
+- protocol based and language-agnostic |
 - plugin architecture |
 - extensible for Blockchain, Machine Learning |
 
