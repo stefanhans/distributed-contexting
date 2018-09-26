@@ -1,15 +1,18 @@
 ### Principles of Distributed Contexting
 @ul
-- the binary double strand |
-- unlimited context domain |
-- edge aware infrastructure |
-- Contexting [Reference Implementation in Go](https://github.com/stefanhans/golang-contexting) |
+- the binary double strand 
+- unlimited context domain
+- edge aware infrastructure
+- Contexting [Reference Implementation in Go](https://github.com/stefanhans/golang-contexting)
 @ulend
 
 +++
 
-### the binary double strand
-
-- Functional Decomposition (Microservices) |
-- Horizontal Duplication (Container) |
-- Data Partitioning (Sharding) |
+### RFCs and Reference Implementations
+@ul
+- Contextinformation (CI)
+- Contextinformation Coding (CIC)
+- Contextinformation Packet (CIP)
+- [Reference Implementation in Go](https://github.com/stefanhans/golang-contexting)
+- TBD: Contextinformation Routing (CIR)
+@ulend
