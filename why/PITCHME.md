@@ -1,4 +1,4 @@
-### Vision a distributed system as follows
+### Vision of a distributed system
 
 - reactive, cost-free, and inherently created |
 - unlimited context domain |

@@ -1,14 +1,13 @@
-## Methodology
+### Principles of Distributed Contexting
 
-<ul>
-  <li class="fragment"><b>Imagine</b> an analogy for digitalization</li>
-  <li class="fragment"><b>Create</b> or find a possible paradigm of it</li>
-  <li class="fragment"><b>Play</b> with its abstractions and other analogies</li>
-  <li class="fragment"><b>Share</b> your ideas with others</li>
-  <li class="fragment"><b>Reflect</b>, make a break, and start again</li>
+- the binary double strand |
+- unlimited context domain |
+- edge aware infrastructure |
+- encrypted by design |
+- protocol-based and language-agnostic |
+- plugin architecture |
+- extensible for Blockchain, Machine Learning |
 
-  <li class="fragment" style="list-style-type: none;"><br><br><br>Does that remind you of something?</li>
-</ul>
 
 ---
 
@@ -24,15 +23,23 @@ Learning Creative Learning
 
 ### Choose Analogies By Intuition
 
-- Biological Swarm |
-- Cloud Computing |
-- Artificial Neural Networks |
-- Holacracy |
-- Universal Basic Income |
-- Global Society |
-<ul>
-  <li class="fragment" style="list-style-type: none;"><br><br><br>I pick my home turf - Cloud Computing.</li>
-</ul>
+@ul
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@ulend
+
+---
+
+[within](https://gitpitch.com)
+
+---
+
+<iframe class="stretch" data-src="https://github.com/stefanhans/golang-contexting"></iframe>
+
+
 
 ---
 
