@@ -1,9 +1,3 @@
-### Vision an app as easy to implement as 
-
-- a distributed system as follows
-
----
-
 ### Vision a distributed system as follows
 
 - reactive, cost-free, and inherently created |
