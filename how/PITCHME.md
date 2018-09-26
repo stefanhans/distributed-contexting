@@ -6,9 +6,9 @@
 - Contexting [Reference Implementation in Go](https://github.com/stefanhans/golang-contexting)
 @ulend
 
-+++
+---
 
-### RFCs and Reference Implementations
+RFCs and Reference Implementations
 @ul
 - Contextinformation (CI)
 - Contextinformation Coding (CIC)
