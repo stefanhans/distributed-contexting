@@ -3,7 +3,7 @@
 - the binary double strand |
 - unlimited context domain |
 - edge aware infrastructure |
-- [Partial Reference Implementation in Go (2 years old)](https://github.com/stefanhans/golang-contexting) |
+- [Contexting Reference Implementation in Go](https://github.com/stefanhans/golang-contexting) |
 
 +++
 
