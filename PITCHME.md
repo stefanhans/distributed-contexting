@@ -4,9 +4,9 @@
 
 Note:
 
-- Offers a wide-range of enhanced presentation **tools** and **features**
-- Both on the desktop and in the cloud
-- Learn more on the GitPitch website at https://gitpitch.com
+- Question the status quo: cloud, big five, decentralized
+- What was possible: peer-to-peer, ipfs, blockchain
+- Look back to the World Wide Web and its invention by Tim Berners-Lee in 1989 
 
 ---
 
