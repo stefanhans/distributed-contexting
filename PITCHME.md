@@ -1,5 +1,9 @@
 ## Distributed Contexting
 
+![animated-network-sphere](assets/image/animated-network-sphere.gif)
+
+
+
 ### a vision to combine some paradigms of
 ### cutting-edge technologies on a new level
 
