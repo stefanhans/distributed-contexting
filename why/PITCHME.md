@@ -3,12 +3,10 @@
 - reactive, cost-free, and inherently created |
 - unlimited context domain |
 - edge aware |
+- encrypted by design |
 - language-agnostic |
 - plugin architecture |
 - extensible for Blockchain, Machine Learning |
-<ul>
-  <li class="fragment" style="list-style-type: none;"><br>... and let's see what else</li>
-</ul>
 
 +++
 
