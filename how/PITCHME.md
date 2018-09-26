@@ -3,13 +3,7 @@
 - the binary double strand |
 - unlimited context domain |
 - edge aware infrastructure |
-- encrypted by design |
-- protocol-based and language-agnostic |
-- plugin architecture |
-- extensible for Blockchain, Machine Learning |
-<ul>
-  <li class="fragment" style="list-style-type: none;">https://github.com/stefanhans/golang-contexting</li>
-</ul>
+- [Partial Reference Implementation in Go (2 years old)](https://github.com/stefanhans/golang-contexting) |
 
 +++
 
