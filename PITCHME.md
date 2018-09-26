@@ -2,6 +2,12 @@
 
 ![animated-network-sphere](assets/image/animated-network-sphere.gif)
 
+Note:
+
+- Offers a wide-range of enhanced presentation **tools** and **features**
+- Both on the desktop and in the cloud
+- Learn more on the GitPitch website at https://gitpitch.com
+
 ---
 
 ## Distributed Contexting
