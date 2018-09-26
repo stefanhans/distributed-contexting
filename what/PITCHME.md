@@ -5,7 +5,7 @@
 - Instead of interplanetary only for files |
 - interplanetry for all what is binary describable |
 - Instead of all being customers of very few |
-- creating the digital world for us yourself
+- creating the digital world for us yourself |
 
 ---
 
