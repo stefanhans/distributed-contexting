@@ -1,4 +1,11 @@
-## What is the result<br>we want to share?
+## What do we want to achieve?
+
+- Instead of container orchestration inside a cloud |
+- application orchestration in all networks |
+- Instead of interplanetary only for files |
+- interplanetry for all what is binary describable |
+- Instead of all being customers of very few |
+- creating the digital world for us yourself
 
 ---
 
