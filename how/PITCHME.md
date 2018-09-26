@@ -1,4 +1,4 @@
-### Principles of Distributed Contexting
+Principles of Distributed Contexting
 @ul
 - the binary double strand 
 - unlimited context domain
