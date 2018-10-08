@@ -16,3 +16,8 @@ RFCs and Reference Implementations
 - [Reference Implementation in Go](https://github.com/stefanhans/golang-contexting)
 - TBD: Contextinformation Routing (CIR)
 @ulend
+
+---?image=assets/img/bT1.svg&size=contain&transition=none
+
+
+---?image=assets/img/bT2.svg&size=contain&transition=none

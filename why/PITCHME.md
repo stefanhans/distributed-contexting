@@ -1,3 +1,7 @@
+Today, I believe we’ve reached a critical tipping point, and that powerful change for the better is possible — and necessary.
+
+---
+
 ### Vision of a distributed system
 
 - reactive, cost-free, and inherently created |
