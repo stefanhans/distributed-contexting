@@ -8,6 +8,12 @@ Today, I believe we’ve reached a critical tipping point, and that powerful cha
 
 ---
 
+### things fall into place
+
+![WordCloud technical](assets/image/wc_technical.png)
+
+---
+
 ### Vision of a distributed system
 
 - reactive, cost-free, and inherently created |
