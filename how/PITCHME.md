@@ -29,8 +29,8 @@ Principles of Distributed Contexting
 RFCs and Reference Implementations
 @ul
 - Contextinformation (CI)
-- [Contextinformation Coding (CIC)](https://github.com/stefanhans/golang-contexting)
-- [Contextinformation Packet (CIP)](https://github.com/stefanhans/golang-contexting)
+- [Contextinformation Coding (CIC)](https://github.com/stefanhans/golang-contexting/blob/master/RFC/CRN_Concepts.txt)
+- [Contextinformation Packet (CIP)](https://github.com/stefanhans/golang-contexting/blob/master/RFC/CIP_Specification.txt)
 - [Reference Implementation in Go](https://github.com/stefanhans/golang-contexting)
 - TBD: Contextinformation Routing (CIR)
 @ulend
