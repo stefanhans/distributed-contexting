@@ -1,16 +1,13 @@
 
-@snap[north]
+<br>
 <br>
 Today, I believe we’ve reached a critical tipping point, 
 and that powerful change for the better is possible — and necessary.
-@snapend
-
-@snap[south]
+<br>
+<br>
 *Tim Berners-Lee (recently)*
 <br>
 <br>
-<br>
-@snapend
 
 
 
