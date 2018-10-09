@@ -26,6 +26,17 @@
 
 ---
 
+## What do we want to achieve?
+
+- Instead of container orchestration inside a cloud |
+- application orchestration in all networks |
+- Instead of interplanetary only for files |
+- interplanetry for all what is binary describable |
+- Instead of all being customers of very few |
+- creating the digital world for us yourself |
+
+---
+
 ### Vision of a distributed system
 
 - reactive, cost-free, and inherently created |
