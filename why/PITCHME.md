@@ -53,12 +53,6 @@ The Reactive Manifesto
 
 ![The Reactive Manifesto](assets/image/reactive-manifesto.png)
 
-+++
-
-Unlimited Context Domain
-
-![The Reactive Manifesto](assets/image/binary-tree.jpeg)
-
 ---
 
 ![optimism is a duty](assets/image/quote-optimism-is-a-duty-the-future-is-open-it-is-not-predetermined-no-one-can-predict-it-karl-popper-146-31-11.jpg)

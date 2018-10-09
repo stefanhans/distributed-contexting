@@ -1,9 +1,9 @@
 Principles of Distributed Contexting
 @ul
-- the binary double strand 
-- unlimited context domain
-- edge aware infrastructure
-- Contexting [Reference Implementation in Go](https://github.com/stefanhans/golang-contexting)
+- the binary double strand ???
+- ???
+- ???
+- ????
 @ulend
 
 +++?image=assets/image/contextingTree1.png&size=contain&transition=none
