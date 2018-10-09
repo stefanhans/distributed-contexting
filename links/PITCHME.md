@@ -7,8 +7,9 @@
 [memegenerator.net](https://memegenerator.net)
 [dev.to/rly](https://dev.to/rly)
 <br>
-[github.com/stefanhans/golang-contexting](https://github.com/stefanhans/golang-contexting)
-[github.com/stefanhans/distributed-contexting](https://github.com/stefanhans/distributed-contexting)
+[golang-contexting](https://github.com/stefanhans/golang-contexting)
+[distributed-contexting](https://github.com/stefanhans/distributed-contexting)
+<br>
 [One Small Step for the Web...](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085)
 <br>
 <i style="font-size:24px" class="fa">&#xf1f9; Stefan Hans 11/2018 &#xf25e;</i>
