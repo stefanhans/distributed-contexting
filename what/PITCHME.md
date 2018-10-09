@@ -1,9 +1,10 @@
+### ... but the most important concept is ...
 
-### ... and fun ...
+---
+
+### ... fun ...
 
 ![party](assets/image/giphy-2.gif)
-
-### thank you
 
 ---
 
