@@ -1,6 +1,13 @@
-Today, I believe we’ve reached a critical tipping point, and that powerful change for the better is possible — and necessary.
+Today, I believe we’ve reached a critical tipping point, 
+<br>
+and that powerful change for the better is possible — and necessary.
 
-Tim Berners-Lee in his article *"One Small Step for the Web…"*
+@snap[south]
+Tim Berners-Lee (recently) 
+<br>
+*"One Small Step for the Web…"*
+@snapend
+
 
 
 ---
