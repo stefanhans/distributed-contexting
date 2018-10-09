@@ -1,11 +1,17 @@
+
+@snap[north]
 Today, I believe we’ve reached a critical tipping point, 
 <br>
 and that powerful change for the better is possible — and necessary.
+@snapend
 
 @snap[south]
 Tim Berners-Lee (recently) 
 <br>
 *"One Small Step for the Web…"*
+<br>
+<br>
+<br>
 @snapend
 
 
