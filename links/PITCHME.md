@@ -1,39 +1,21 @@
 @transition[none]
 
-@snap[midpoint]
-Links and Copyright
-@snapend
-
-@snap[north]
+### Links and Copyright
 https://gitpitch.com/
-@snapend
-
-@snap[north-east]
+<br>
 https://wordart.com/
-@snapend
-
-@snap[south-east]
+<br>
 www.azquotes.com
-@snapend
-
-@snap[east]
+<br>
 https://memegenerator.net
-@snapend
-
-@snap[south-west]
+<br>
 https://dev.to/rly
-@snapend
-
-@snap[north-west]
+<br>
 https://github.com/stefanhans/golang-contexting
-@snapend
-
-@snap[south]
+<br>
 https://github.com/stefanhans/distributed-contexting
-@snapend
-
-@snap[west]
+<br>
 https://gitpitch.com
-@snapend
+<br>
 
 
