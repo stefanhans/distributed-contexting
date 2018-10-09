@@ -8,15 +8,15 @@ Note:
 - What was possible: peer-to-peer, ipfs, blockchain
 - Look back to the World Wide Web and its invention by Tim Berners-Lee in 1989 
 
+
++++?include=intro/PITCHME.md
+
 +++
 
 ## Distributed Contexting
 
-### a vision to combine some paradigms of
-### cutting-edge technologies on a new level
-
-
-+++?include=intro/PITCHME.md
+### a vision to combine paradigms of
+### appropriate technology on a new level
 
 ---
 
