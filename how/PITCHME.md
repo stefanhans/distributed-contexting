@@ -28,7 +28,7 @@ Principles of Distributed Contexting
 
 RFCs and Reference Implementations
 @ul
-- [Concepts of Contextinformation Routing Networks](https://github.com/stefanhans/golang-contexting/blob/master/RFC/CRN_Concepts.txt)
+- [Contextinformation Routing Network (CRN)](https://github.com/stefanhans/golang-contexting/blob/master/RFC/CRN_Concepts.txt)
 - [Contextinformation Packet (CIP)](https://github.com/stefanhans/golang-contexting/blob/master/RFC/CIP_Specification.txt)
 - [Reference Implementation in Go](https://github.com/stefanhans/golang-contexting)
 - TBD: Contextinformation Routing (CIR)
