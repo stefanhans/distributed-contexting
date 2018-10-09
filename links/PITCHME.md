@@ -1,39 +1,39 @@
 @transition[none]
 
-@snap[north-east]
-North-East
-@snapend
-
-@snap[south-east]
-South-East
-@snapend
-
-@snap[south-west]
-South-West
-@snapend
-
-@snap[north-west]
-North-West
-@snapend
-
 @snap[midpoint]
 Links and Copyright
 @snapend
 
 @snap[north]
-North
+https://gitpitch.com/
+@snapend
+
+@snap[north-east]
+https://wordart.com/
+@snapend
+
+@snap[south-east]
+www.azquotes.com
 @snapend
 
 @snap[east]
-East
+https://memegenerator.net
+@snapend
+
+@snap[south-west]
+https://dev.to/rly
+@snapend
+
+@snap[north-west]
+https://github.com/stefanhans/golang-contexting
 @snapend
 
 @snap[south]
-South
+https://github.com/stefanhans/distributed-contexting
 @snapend
 
 @snap[west]
-West
+https://gitpitch.com
 @snapend
 
 
