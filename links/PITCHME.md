@@ -11,5 +11,6 @@
 [github.com/stefanhans/distributed-contexting](https://github.com/stefanhans/distributed-contexting)
 [gitpitch.com/stefanhans/distributed-contexting](https://gitpitch.com/stefanhans/distributed-contexting#/)
 <br>
+<i class="fa fa-copyright" style="font-size:24px"></i>
 
 
