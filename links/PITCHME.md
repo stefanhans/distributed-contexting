@@ -1,6 +1,6 @@
 @transition[none]
 
-### Links and Copyright
+### Links and Contact
 [<i style="font-size:24px" class="fa">&#xf268; gitpitch.com</i>](https://gitpitch.com/)
 [<i style="font-size:24px" class="fa">&#xf268; wordart.com</i>](https://wordart.com/)
 [<i style="font-size:24px" class="fa">&#xf268; www.azquotes.com</i>](https://www.azquotes.com)
@@ -11,6 +11,10 @@
 [<i style="font-size:24px" class="fa">&#xf09b; distributed-contexting</i>](https://github.com/stefanhans/distributed-contexting)
 <br>
 [<i style="font-size:24px" class="fa">&#xf23a; One Small Step for the Web...</i>](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085)
+<br>
+[<i style="font-size:24px" class="fa">&#xf1fa;</i>](mailto://stefanhans65@gmail.com)
+[<i style="font-size:24px" class="fa">&#xf099;</i>](mailto://stefanhans65@gmail.com)
+[<i style="font-size:24px" class="fa">&#xf08c;</i>](mailto://stefanhans65@gmail.com)
 <br>
 <i style="font-size:24px" class="fa">&#xf1f9; Stefan Hans 11/2018 &#xf25e;</i>
 
