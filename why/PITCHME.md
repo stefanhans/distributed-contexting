@@ -2,6 +2,8 @@ Today, I believe we’ve reached a critical tipping point, and that powerful cha
 
 ---
 
+### what is possible?
+
 ![WordCloud socioeconomics](assets/image/wc_socioeconomics.png)
 
 ---
