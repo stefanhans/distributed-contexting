@@ -17,7 +17,23 @@ North-West
 @snapend
 
 @snap[midpoint]
-### Links and Copyright
+Links and Copyright
+@snapend
+
+@snap[north]
+North
+@snapend
+
+@snap[east]
+East
+@snapend
+
+@snap[south]
+South
+@snapend
+
+@snap[west]
+West
 @snapend
 
 
