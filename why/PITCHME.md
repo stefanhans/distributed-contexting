@@ -1,7 +1,7 @@
-As Tim Berners-Lee said recently:
+Today, I believe we’ve reached a critical tipping point, and that powerful change for the better is possible — and necessary.
 
-> Today, I believe we’ve reached a critical tipping point, 
-> and that powerful change for the better is possible — and necessary.
+Tim Berners-Lee in his article *"One Small Step for the Web…"*
+
 
 ---
 
