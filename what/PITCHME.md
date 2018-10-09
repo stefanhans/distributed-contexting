@@ -8,8 +8,6 @@
 
 ---
 
-### ... and fun ...
-
 ![party](assets/image/giphy-3.gif)
 
 ### thank you
