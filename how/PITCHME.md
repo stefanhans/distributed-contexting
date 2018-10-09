@@ -35,6 +35,5 @@ RFCs and Reference Implementations
 
 +++?image=assets/image/contextingTree9.png&size=contain&transition=none
 
-+++?image=assets/image/contextingTree8.png&size=contain&transition=none
 
 
