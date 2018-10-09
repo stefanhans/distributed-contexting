@@ -1,21 +1,21 @@
 @transition[none]
 
 ### Links and Copyright
-https://gitpitch.com/
+[gitpitch.com](https://gitpitch.com/)
 <br>
-https://wordart.com/
+[wordart.com](https://wordart.com/)
 <br>
-www.azquotes.com
+[www.azquotes.com](https://www.azquotes.com)
 <br>
-https://memegenerator.net
+[memegenerator.net](https://memegenerator.net)
 <br>
-https://dev.to/rly
+[dev.to/rly](https://dev.to/rly)
 <br>
-https://github.com/stefanhans/golang-contexting
+[github.com/stefanhans/golang-contexting](https://github.com/stefanhans/golang-contexting)
 <br>
-https://github.com/stefanhans/distributed-contexting
+[github.com/stefanhans/distributed-contexting](https://github.com/stefanhans/distributed-contexting)
 <br>
-https://gitpitch.com
+[gitpitch.com/stefanhans/distributed-contexting](https://gitpitch.com/stefanhans/distributed-contexting#/)
 <br>
 
 
