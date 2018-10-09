@@ -17,7 +17,22 @@ RFCs and Reference Implementations
 - TBD: Contextinformation Routing (CIR)
 @ulend
 
----?image=assets/image/bT1.png&size=contain&transition=none
+---?image=assets/image/contextingTree1.png&size=contain&transition=none
+
++++?image=assets/image/contextingTree2.png&size=contain&transition=none
+
++++?image=assets/image/contextingTree3.png&size=contain&transition=none
+
++++?image=assets/image/contextingTree4.png&size=contain&transition=none
+
++++?image=assets/image/contextingTree5.png&size=contain&transition=none
+
++++?image=assets/image/contextingTree6.png&size=contain&transition=none
+
++++?image=assets/image/contextingTree7.png&size=contain&transition=none
+
++++?image=assets/image/contextingTree8.png&size=contain&transition=none
+
++++?image=assets/image/contextingTree9.png&size=contain&transition=none
 
 
----?image=assets/image/bT2.png&size=contain&transition=none
