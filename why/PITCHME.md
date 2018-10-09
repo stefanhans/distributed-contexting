@@ -1,8 +1,9 @@
 
 <br>
 <br>
-Today, I believe we’ve reached a critical tipping point, 
-and that powerful change for the better is possible — and necessary.
+Today, I believe we’ve reached a critical 
+<br> tipping point, and that powerful change 
+<br>for the better is possible — and necessary.
 <br>
 <br>
 *Tim Berners-Lee (recently)*
