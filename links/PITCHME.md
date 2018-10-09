@@ -9,10 +9,9 @@
 <br>
 [github.com/stefanhans/golang-contexting](https://github.com/stefanhans/golang-contexting)
 [github.com/stefanhans/distributed-contexting](https://github.com/stefanhans/distributed-contexting)
-[gitpitch.com/stefanhans/distributed-contexting](https://gitpitch.com/stefanhans/distributed-contexting#/)
+[One Small Step for the Web...](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085)
 <br>
-<i class="fa fa-copyright" style="font-size:24px">Stefan Hans Nov 2018</i><i class="fa fa-creative-commons" style="font-size:24px"></i>
-<i style="font-size:24px" class="fa">&#xf1f9; Stefan Hans Nov 2018 &#xf25e;</i>
+<i style="font-size:24px" class="fa">&#xf1f9; Stefan Hans 11/2018 &#xf25e;</i>
 
 
 
