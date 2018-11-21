@@ -5,10 +5,10 @@
 - Artificial Neural Networks |
 - Mathematical functions (hash, backpropagation) |
 
+---
 
-### The ignored possibilities 
+### The ignored functions 
 
-Functions can (be) more |
 - Transformations (e.g. GPS) |
 - Models (e.g. Taxonomies)|
 - Descriptions (e.g. Text) |

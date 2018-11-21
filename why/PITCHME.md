@@ -59,9 +59,9 @@
 
 ## We are on the way!
 
-- from cloud to ipfs |
-- from data silos to data exchange (Ocean Protocol) |
-- from blockchain to ethereum |
+- cloud -> ipfs |
+- data silos -> decentralized data exchange |
+- cryptocurrencies -> blockchain-based computing |
 
 +++
 
@@ -88,7 +88,6 @@
 +++
 
 ![Jeremy Rifkin about social entrepreneur](assets/image/quote-jeremy-rifkin.jpg)
-
 
 ---
 
