@@ -12,7 +12,7 @@
 
 ---
 
-## between paradigms and reality
+## Between paradigms and reality
 
 - the concentration of distributed systems |
 - cloud, edge, and peer-to-peer computing |
@@ -23,13 +23,19 @@
 
 +++
 
-## more generally
+## The big picture
 
 - digitalisation between utopia and distropia |
 - segregation of common good and money |
 - mass extinction of nature and culture |
 
 +++
+
+<br>
+"Everything that civilisation has to offer is a product of human intelligence; we cannot predict what we might achieve when this intelligence is magnified by the tools that AI may provide, but the eradication of war, disease, and poverty would be high on anyone's list. Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last.
+*Stephen Hawking*
+
+<br>
 
 ![Evgeny Morozov about the cloud](assets/image/quote-evgeny-morozov.jpg)
 
@@ -45,6 +51,16 @@
 ---
 
 ![Douglas Engelbart about collective](assets/image/quote-douglas-engelbart.jpg)
+
+---
+
+
+## We are on the way!
+
+- cloud -> ipfs
+- data silo -> ocean protocol
+- blockchain -> ethereum
+
 ---
 
 
