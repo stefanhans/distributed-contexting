@@ -16,6 +16,13 @@
 
 - digitalisation between utopia and distropia |
 - segregation of common good and money |
+- mass extinction of nature and culture |
+
+too pessimistic? |
+reality, but not in our time perception |
+
+---
+
 - container orchestration inside a cloud |
 - "interplanetary" in very few domains |
 - being clients of very few |
@@ -27,6 +34,10 @@
 +++
 
 ![Warren Buffet about the rich](assets/image/quote-warren-buffett.jpg)
+
++++
+
+![Louie Psihoyos about extinction](assets/image/quote-louie-psihoyos.jpg)
 
 +++
 
