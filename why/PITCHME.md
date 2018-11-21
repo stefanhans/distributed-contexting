@@ -12,24 +12,29 @@
 
 ---
 
-## What do we have today?
+## a contradiction between paradigms and reality
+
+- the concentration of distributed systems |
+- data, ai, and its economy of scale |
+- blockchain, common good, and money |
+
+
+
+---
+
+![Douglas Engelbart about collective](assets/image/quote-douglas-engelbart.jpg)
+
++++
+
+## more generally
 
 - digitalisation between utopia and distropia |
 - segregation of common good and money |
 - mass extinction of nature and culture |
 
-too pessimistic? |
-reality, but not in our time perception |
-
----
-
-- container orchestration inside a cloud |
-- "interplanetary" in very few domains |
-- being clients of very few |
-
 +++
 
-![Douglas Engelbart about collective](assets/image/quote-douglas-engelbart.jpg)
+![Evgeny Morozov about the cloud](assets/image/quote-evgeny-morozov.jpg)
 
 +++
 
@@ -39,11 +44,14 @@ reality, but not in our time perception |
 
 ![Louie Psihoyos about extinction](assets/image/quote-louie-psihoyos.jpg)
 
-+++
-
-![Evgeny Morozov about the cloud](assets/image/quote-evgeny-morozov.jpg)
+---
 
 
+## more concrete
+
+- container orchestration inside a cloud |
+- "interplanetary" in very few domains |
+- being clients of very few |
 
 
 ---
