@@ -12,7 +12,7 @@
 
 ---
 
-## a contradiction between paradigms and reality
+## between paradigms and reality
 
 - the concentration of distributed systems |
 - data, ai, and its economy of scale |
