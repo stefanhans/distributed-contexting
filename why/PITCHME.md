@@ -34,9 +34,10 @@
 
 ---
 
-## what about multicontext?
 
 ![IPFS Multiformats](assets/image/ipfs-multiformats.jpg)
+
+What about multicontext?
 
 ---
 
