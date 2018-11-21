@@ -12,32 +12,26 @@
 
 ---
 
-### what is possible?
-
-![WordCloud socioeconomics](assets/image/wc_socioeconomics.png)
-
----
-
-### things fall into place
-
-![WordCloud technical](assets/image/wc_technical.png)
-
----
-
 ## What do we have today?
 
+- digitalisation between utopia and distropia |
+- segregation of common good and money |
 - container orchestration inside a cloud |
 - interplanetary in very few domains |
 - being clients of very few |
 
+---
+
+![Warren Buffet about the rich](assets/image/quote-warren-buffett.jpg)
+
 
 ---
 
-## What do we want to achieve?
+## What can we achieve?
 
+- creating the digital world for us yourself |
 - application orchestration in all networks |
 - interplanetry for everything |
-- creating the digital world for us yourself |
 
 ---
 
@@ -50,6 +44,19 @@
 - protocol-based and language-agnostic |
 - plugin architecture |
 - extensible for Blockchain, Machine Learning |
+
+
+---
+
+### what is possible?
+
+![WordCloud socioeconomics](assets/image/wc_socioeconomics.png)
+
+---
+
+### things fall into place
+
+![WordCloud technical](assets/image/wc_technical.png)
 
 +++
 
