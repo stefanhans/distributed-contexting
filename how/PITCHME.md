@@ -1,7 +1,4 @@
 
-
----
-
 ![IPFS Stack](assets/image/ipfs-stack.jpg)
 
 ---
