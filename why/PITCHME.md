@@ -48,10 +48,10 @@
 ---
 
 
-## more concrete
+## Where do we stand?
 
-- container orchestration inside a cloud |
-- "interplanetary" in very few domains |
+- orchestration inside a cloud |
+- "interplanetary" in a few domains |
 - being clients of very few |
 
 
