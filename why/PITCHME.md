@@ -17,7 +17,7 @@
 - digitalisation between utopia and distropia |
 - segregation of common good and money |
 - container orchestration inside a cloud |
-- interplanetary in very few domains |
+- "interplanetary" in very few domains |
 - being clients of very few |
 
 +++
@@ -41,7 +41,12 @@
 
 - creating the digital world for us yourself |
 - application orchestration in all networks |
-- interplanetry for everything |
+- provide "interplanetary" for everything |
+
++++
+
+![Jeremy Rifkin about social entrepreneur](assets/image/quote-jeremy-rifkin.jpg)
+
 
 ---
 
