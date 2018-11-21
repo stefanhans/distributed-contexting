@@ -35,7 +35,7 @@
 ---
 
 
-### things fall into place
+### and the business case?
 
 ![WordCloud technical](assets/image/dao-quadrants.jpg)
 
