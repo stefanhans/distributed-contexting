@@ -26,6 +26,14 @@
 
 ---
 
+![IPFS Stack](assets/image/ipfs-stack.jpg)
+
+---
+
+![IPFS Waist](assets/image/ipfs-thin-waist.jpg)
+
+
+
 ### things fall into place
 
 ![WordCloud technical](assets/image/dao-quadrants.jpg)
