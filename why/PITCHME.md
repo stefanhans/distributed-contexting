@@ -32,6 +32,7 @@
 
 ![IPFS Waist](assets/image/ipfs-thin-waist.jpg)
 
+---
 
 
 ### things fall into place
