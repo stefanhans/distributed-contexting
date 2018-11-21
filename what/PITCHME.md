@@ -1,8 +1,8 @@
 
 
----
-
 ![Distributed Contexting](assets/image/Distributed-Contexting.png)
+
+---
 
 
 ### ... but the most important concept is ...
