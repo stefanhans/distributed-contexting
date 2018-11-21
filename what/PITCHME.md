@@ -44,6 +44,21 @@ RFCs and Reference Implementations
 
 ---
 
+![IPFS Stack](assets/image/ipfs-stack.jpg)
+
+---
+
+![IPFS Waist](assets/image/ipfs-thin-waist.jpg)
+
+---
+
+![IPFS Multiformats](assets/image/ipfs-multiformats.jpg)
+
+What about multicontext?
+
+
+---
+
 ### ... but the most important concept is ...
 
 ---
