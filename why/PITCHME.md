@@ -50,13 +50,19 @@ What about multicontext?
 
 ---
 
+## What do we have today?
+
+- container orchestration inside a cloud |
+- interplanetary in very few domains |
+- being clients of very few |
+
+
+---
+
 ## What do we want to achieve?
 
-- Instead of container orchestration inside a cloud |
 - application orchestration in all networks |
-- Instead of interplanetary only for files |
-- interplanetry for all what is binary describable |
-- Instead of all being customers of very few |
+- interplanetry for everything |
 - creating the digital world for us yourself |
 
 ---

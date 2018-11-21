@@ -11,17 +11,6 @@ Note:
 
 +++?include=intro/PITCHME.md
 
-+++
-
-## Distributed Contexting
-
-### a vision to combine paradigms of
-### appropriate technology on a new level
-
----
-
-![Distributed Contexting](assets/image/Distributed-Contexting.png)
-
 ---?include=why/PITCHME.md
 
 ---?include=how/PITCHME.md
