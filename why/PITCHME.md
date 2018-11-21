@@ -32,15 +32,14 @@
 +++
 
 <br>
-<br>"Success in creating AI would be the biggest event in human history. 
+<br>"Success in creating AI would be the biggest event 
+<br> in human history. 
 <br>Unfortunately, it might also be the last."
 <br>
 <br>
 <br>
 *Stephen Hawking*
 <br>
-
-![Evgeny Morozov about the cloud](assets/image/quote-evgeny-morozov.jpg)
 
 +++
 
@@ -63,6 +62,10 @@
 - cloud -> ipfs
 - data silo -> ocean protocol
 - blockchain -> ethereum
+
++++
+
+![Evgeny Morozov about the cloud](assets/image/quote-evgeny-morozov.jpg)
 
 ---
 
