@@ -31,15 +31,14 @@
 
 +++
 
-<br>
 <br>"Success in creating AI would
 <br>be the biggest event in human history. 
 <br>Unfortunately, it might also be the last."
 <br>
 <br>
 <br>
-<br>
 *Stephen Hawking*
+<br>
 <br>
 
 +++
