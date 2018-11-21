@@ -59,13 +59,9 @@
 
 ## We are on the way!
 
-- cloud -> ipfs |
+- cloud -> IPFS -> DAPPs |
 - data silos -> decentralized data exchange |
 - cryptocurrencies -> blockchain-based computing |
-
-+++
-
-![Evgeny Morozov about the cloud](assets/image/quote-evgeny-morozov.jpg)
 
 ---
 
