@@ -63,6 +63,12 @@
 - data silos -> decentralized data exchange |
 - cryptocurrencies -> blockchain-based computing |
 
+
+---
+
+![Web 2.0 - Web 3.0](assets/image/web2-3.0.png)
+
+
 ---
 
 

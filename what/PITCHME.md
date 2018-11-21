@@ -34,16 +34,6 @@ Principles of Distributed Contexting
 
 ---
 
-RFCs and Reference Implementations
-@ul
-- [Contextinformation Routing Network (CRN)](https://github.com/stefanhans/golang-contexting/blob/master/RFC/CRN_Concepts.txt)
-- [Contextinformation Packet (CIP)](https://github.com/stefanhans/golang-contexting/blob/master/RFC/CIP_Specification.txt)
-- [Reference Implementation in Go](https://godoc.org/github.com/stefanhans/golang-contexting/ctx)
-- TBD: Contextinformation Routing (CIR)
-@ulend
-
----
-
 ![IPFS Stack](assets/image/ipfs-stack.jpg)
 
 ---
@@ -56,6 +46,16 @@ RFCs and Reference Implementations
 
 What about multicontext?
 
+
+---
+
+RFCs and Reference Implementations
+@ul
+- [Contextinformation Routing Network (CRN)](https://github.com/stefanhans/golang-contexting/blob/master/RFC/CRN_Concepts.txt)
+- [Contextinformation Packet (CIP)](https://github.com/stefanhans/golang-contexting/blob/master/RFC/CIP_Specification.txt)
+- [Reference Implementation in Go](https://godoc.org/github.com/stefanhans/golang-contexting/ctx)
+- TBD: Contextinformation Routing (CIR)
+@ulend
 
 ---
 
