@@ -21,10 +21,6 @@
 
 
 
----
-
-![Douglas Engelbart about collective](assets/image/quote-douglas-engelbart.jpg)
-
 +++
 
 ## more generally
@@ -45,6 +41,10 @@
 
 ![Louie Psihoyos about extinction](assets/image/quote-louie-psihoyos.jpg)
 
+
+---
+
+![Douglas Engelbart about collective](assets/image/quote-douglas-engelbart.jpg)
 ---
 
 
