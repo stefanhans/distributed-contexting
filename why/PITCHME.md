@@ -32,9 +32,9 @@
 +++
 
 <br>
-"Everything that civilisation has to offer is a product of human intelligence; 
-<br>we cannot predict what we might achieve when this intelligence is magnified by the tools that AI may provide, but the eradication of war, disease, and poverty would be high on anyone's list. 
-<br>Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last.
+<br>"Success in creating AI would be the biggest event in human history. 
+<br>Unfortunately, it might also be the last."
+<br>
 <br>
 <br>
 *Stephen Hawking*
