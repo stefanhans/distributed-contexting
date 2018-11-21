@@ -59,9 +59,9 @@
 
 ## We are on the way!
 
-- cloud -> ipfs
-- data silo -> ocean protocol
-- blockchain -> ethereum
+- from cloud to ipfs |
+- from data silos to data exchange (Ocean Protocol) |
+- from blockchain to ethereum |
 
 +++
 
