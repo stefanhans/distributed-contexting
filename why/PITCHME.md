@@ -95,7 +95,7 @@
 - encrypted by design |
 - protocol-based and language-agnostic |
 - plugin architecture |
-- extensible for Blockchain, Machine Learning |
+- suitable for blockchain and ai |
 
 
 +++
