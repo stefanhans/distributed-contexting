@@ -26,6 +26,12 @@
 
 ---
 
+### things fall into place
+
+![WordCloud technical](assets/image/dao-quadrants.jpg)
+
+---
+
 ## What do we want to achieve?
 
 - Instead of container orchestration inside a cloud |
