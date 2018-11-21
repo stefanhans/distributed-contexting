@@ -20,9 +20,19 @@
 - interplanetary in very few domains |
 - being clients of very few |
 
----
++++
+
+![Douglas Engelbart about collective](assets/image/quote-douglas-engelbart.jpg)
+
++++
 
 ![Warren Buffet about the rich](assets/image/quote-warren-buffett.jpg)
+
++++
+
+![Evgeny Morozov about the cloud](assets/image/quote-evgeny-morozov.jpg)
+
+
 
 
 ---
