@@ -23,9 +23,9 @@ RFCs and Reference Implementations
 - scalable |
 - weakly-consistent |
 - infection-style |
-- process group membership protocol |
+- process group <b>m</b>embership protocol |
 - ++, i.e. piggybacking and suspicion mechanism |
-- implementation as ```memberlist``` from HashiCorp |
+- implementation as <i>memberlist</i> from HashiCorp |
 
 ---
 
