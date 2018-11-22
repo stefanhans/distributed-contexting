@@ -97,6 +97,14 @@ The Reactive Manifesto
 ![Web 2.0 - Web 3.0](assets/image/web2-3.0.png)
 
 
++++
+
+### and the business case?
+
+![The DAO Quadrants](assets/image/dao-quadrants.jpg)
+
+
+
 ---
 
 ## What can we achieve?
