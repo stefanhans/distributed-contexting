@@ -58,3 +58,4 @@
 - taxonomies, e.g. languages |
 - strings, e.g. secrets |
 - all binary representable, i.e. everything |
+- hashes, ai, blockchain
