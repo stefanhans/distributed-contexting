@@ -31,18 +31,6 @@
 - the structure itself has no meaning, is endless, <br> and the peers navigate on it by simple rules |
 <br> <br>
 
----
-
-Principles of Distributed Contexting
-@ul
-- a double strand of bits
-- a binary tree nodes and leaves
-- an endless binary texture
-- ????
-@ulend
-
-
-
 +++?image=assets/image/contextingTree1.png&size=contain&transition=none
 
 +++?image=assets/image/contextingTree2.png&size=contain&transition=none
@@ -60,3 +48,14 @@ Principles of Distributed Contexting
 +++?image=assets/image/contextingTree8.png&size=contain&transition=none
 
 +++?image=assets/image/contextingTree9.png&size=contain&transition=none
+
+
+---
+
+Principles of Distributed Contexting
+@ul
+- a double strand of bits
+- a binary tree nodes and leaves
+- an endless binary texture
+- ????
+@ulend
