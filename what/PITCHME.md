@@ -14,7 +14,7 @@ RFCs and Reference Implementations
 - as simple as possible but not simpler |
 - as an hourglass protocol |
 - isomorphic, i.e. no server/client distinction |
-- SWIM(++) protocol
+- SWIM(++) protocol for different membergroups |
 
 ---
 
@@ -23,9 +23,9 @@ RFCs and Reference Implementations
 - scalable |
 - weakly-consistent |
 - infection-style |
-- process group <b>m</b>embership protocol |
+- process group membership protocol |
 - ++, i.e. piggybacking and suspicion mechanism |
-- implementation as <i>memberlist</i> from HashiCorp |
+- implementation as "memberlist" from HashiCorp |
 
 ---
 
