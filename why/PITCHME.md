@@ -63,10 +63,17 @@
 - data silos -> decentralized data exchange |
 - cryptocurrencies -> blockchain-based computing |
 
-
 ---
 
-![Web 2.0 - Web 3.0](assets/image/web2-3.0.png)
+### Vision of a distributed system
+
+- reactive, cost-free, and inherently created |
+- unlimited context domain |
+- edge aware infrastructure |
+- encrypted by design |
+- protocol-based and language-agnostic |
+- plugin architecture |
+- suitable for blockchain and ai |
 
 
 ---
@@ -81,6 +88,11 @@
 
 ---
 
+![Web 2.0 - Web 3.0](assets/image/web2-3.0.png)
+
+
+---
+
 ## What can we achieve?
 
 - creating the digital world for us yourself |
@@ -90,18 +102,6 @@
 +++
 
 ![Jeremy Rifkin about social entrepreneur](assets/image/quote-jeremy-rifkin.jpg)
-
----
-
-### Vision of a distributed system
-
-- reactive, cost-free, and inherently created |
-- unlimited context domain |
-- edge aware infrastructure |
-- encrypted by design |
-- protocol-based and language-agnostic |
-- plugin architecture |
-- suitable for blockchain and ai |
 
 
 +++
