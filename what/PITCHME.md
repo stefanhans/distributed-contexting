@@ -12,10 +12,14 @@
 
 ---
 
+Distributed Contexting provides a methodology to connect peers with matching context
+
+---
+
 Principles of Distributed Contexting
 @ul
 - a double strand of bits
-- an endless multidimensional binary tree nodes and leaves
+- a binary tree nodes and leaves
 - an endless binary texture
 - ????
 @ulend
