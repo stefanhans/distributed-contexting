@@ -1,4 +1,11 @@
 
+
+![Distributed Contexting](assets/image/Distributed-Contexting.png)
+
+---
+
+
+
 ### Structure and calculations
 
 - Merkle Trees (IPFS, git, blockchain) |

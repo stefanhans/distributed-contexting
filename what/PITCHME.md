@@ -1,11 +1,4 @@
 
-
-![Distributed Contexting](assets/image/Distributed-Contexting.png)
-
----
-
-
-
 Principles of Distributed Contexting
 @ul
 - the binary double strand ???
