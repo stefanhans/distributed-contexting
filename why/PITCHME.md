@@ -14,7 +14,7 @@
 
 ## Between paradigms and reality
 
- or the concentration of distributed systems
+ or the concentration of distributed systems |
 - cloud, edge, and peer-to-peer computing |
 - ai, data, and its economy of scale |
 - blockchain, common good, and money |
