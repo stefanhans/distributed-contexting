@@ -52,10 +52,9 @@
 
 ---
 
-Examples of Distributed Contexting
+Kinds of context
 @ul
-- as simple as possible but not simpler
-- be a hourglass protocol
-- an endless binary texture
-- ????
+- standards, e.g. GPS
+- taxonomies, e.g. languages
+- strings, e.g. secrets
 @ulend
