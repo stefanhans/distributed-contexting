@@ -53,8 +53,8 @@
 ---
 
 ### Kinds of context
-@ul
-- standards, e.g. GPS
-- taxonomies, e.g. languages
-- strings, e.g. secrets
-@ulend
+
+- standards, e.g. GPS |
+- taxonomies, e.g. languages |
+- strings, e.g. secrets |
+- all binary representable, i.e. everything |
