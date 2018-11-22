@@ -75,6 +75,12 @@
 - plugin architecture |
 - suitable for blockchain and ai |
 
++++
+
+The Reactive Manifesto
+
+![The Reactive Manifesto](assets/image/reactive-manifesto.png)
+
 
 ---
 
@@ -115,12 +121,6 @@
 ### things fall into place
 
 ![WordCloud technical](assets/image/wc_technical.png)
-
-+++
-
-The Reactive Manifesto
-
-![The Reactive Manifesto](assets/image/reactive-manifesto.png)
 
 +++
 
