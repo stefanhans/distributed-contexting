@@ -12,7 +12,10 @@
 
 ---
 
-Distributed Contexting provides a methodology to connect peers with matching context
+Distributed Contexting provides a methodology to connect peers with matching context.
+It has functions to define the transformation of the context to a binary representation.
+The representation has two parallel strands of bits which represents the context and its accuracy.
+
 
 ---
 
