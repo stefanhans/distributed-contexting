@@ -25,7 +25,7 @@ RFCs and Reference Implementations
 - infection-style |
 - process group membership protocol |
 - ++, i.e. piggybacking and suspicion mechanism |
-- implementation as "memberlist" from HashiCorp |
+- "memberlist": Go implementation from HashiCorp |
 
 ---
 
