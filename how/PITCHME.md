@@ -23,19 +23,14 @@
 
 ---
 
-Distributed Contexting provides a methodology 
-<br>to connect peers with matching context. 
-<br>
-<br> Functions define a binary representation. 
-<br>Two parallel strands of bits represent information
-<br> and its bitwise relevance. 
-<br>
-<br> In the binary tree of permutations, 
-<br>these are the path to a leaf
-<br>and a complete subtree with the root node on it.
-<br>
-<br>
-<br>
+### Distributed Contexting
+
+- connect peers with matching context |
+- functions define binary representations 
+- one strand of bits represents information 
+- one strand of bits represents relevance 
+- in the binary tree of permutations |
+- resides the peers as routers
 
 ---
 
