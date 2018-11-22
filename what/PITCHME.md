@@ -12,10 +12,14 @@
 
 ---
 
-Distributed Contexting provides a methodology to connect peers with matching context.
-It has functions to define the transformation of the context to a binary representation.
-The representation has two parallel strands of bits which represents the context and its accuracy.
-
+<br>
+<br>Distributed Contexting provides a methodology 
+<br>to connect peers with matching context. 
+<br>Functions define the coding to a binary representation. 
+<br>Two parallel strands of bits represent information and its bitwise relevance. 
+<br>In the binary tree of permutations, these are the path to a leaf
+<br> and a complete subtree with the root node on it.
+<br>
 
 ---
 
