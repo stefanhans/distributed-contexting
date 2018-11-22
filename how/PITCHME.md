@@ -26,11 +26,10 @@
 ### Distributed Contexting
 
 - connect peers with matching context |
-- functions define binary representations 
-- one strand of bits represents information 
+- functions define binary representations <br> one strand of bits represents information 
 - one strand of bits represents relevance 
 - in the binary tree of permutations |
-- resides the peers as routers
+- the peers build an overlay-network
 
 ---
 
