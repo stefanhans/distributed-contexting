@@ -14,11 +14,18 @@ RFCs and Reference Implementations
 - as simple as possible but not simpler |
 - as an hourglass protocol |
 - isomorphic, i.e. no server/client distinction |
-- SWIM(++) protocol, e.g. memberlist from HashiCorp
+- SWIM(++) protocol
 
 ---
 
-SWIM: scalable weakly-consistent infection-style process group membership protocol
+### SWIM(++) protocol
+
+- scalable |
+- weakly-consistent |
+- infection-style |
+- process group membership protocol |
+- ++, i.e. piggybacking and suspicion mechanism |
+- implementation as `memberlist` from HashiCorp |
 
 ---
 
