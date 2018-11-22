@@ -29,6 +29,14 @@ RFCs and Reference Implementations
 
 ---
 
+### Additional network challenges
+
+- different protocols and versions |
+- NAT and firewalls |
+- IPFS stack helps | 
+
+---
+
 ![IPFS Stack](assets/image/ipfs-stack.jpg)
 
 ---
