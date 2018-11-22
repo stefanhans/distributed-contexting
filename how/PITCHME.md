@@ -49,13 +49,12 @@
 
 +++?image=assets/image/contextingTree9.png&size=contain&transition=none
 
-
 ---
 
 ### Kinds of context
 
 - standards, e.g. GPS |
 - taxonomies, e.g. languages |
-- strings, e.g. secrets |
-- all binary representable, i.e. everything |
+- dictionaries, e.g. tags, categories |
+- all binary representables, i.e. everything |
 - hashes, ai, blockchain |
