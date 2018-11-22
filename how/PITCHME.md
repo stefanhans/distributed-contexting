@@ -52,7 +52,7 @@
 
 ---
 
-Kinds of context
+### Kinds of context
 @ul
 - standards, e.g. GPS
 - taxonomies, e.g. languages

@@ -13,7 +13,7 @@ RFCs and Reference Implementations
 
 - as simple as possible but not simpler |
 - as an hourglass protocol |
-- isomorphic, i.e. basically no server/client distinction |
+- isomorphic, i.e. no server/client distinction |
 
 ---
 
