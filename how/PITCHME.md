@@ -52,10 +52,10 @@
 
 ---
 
-Principles of Distributed Contexting
+Examples of Distributed Contexting
 @ul
-- a double strand of bits
-- a binary tree nodes and leaves
+- as simple as possible but not simpler
+- be a hourglass protocol
 - an endless binary texture
 - ????
 @ulend
