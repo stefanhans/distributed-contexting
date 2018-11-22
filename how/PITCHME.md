@@ -56,5 +56,5 @@
 - standards, e.g. GPS |
 - taxonomies, e.g. languages |
 - dictionaries, e.g. tags, categories |
-- all binary representables, i.e. everything |
+- all, binary representable, i.e. everything |
 - hashes, ai, blockchain |
