@@ -61,7 +61,7 @@
 
 - cloud -> IPFS -> DAPPs |
 - data silos -> decentralized data exchange |
-- cryptocurrencies -> blockchain-based computing |
+- bitcoin -> blockchain-based computing |
 
 ---
 

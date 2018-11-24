@@ -8,9 +8,6 @@ Note:
 - What was possible: peer-to-peer, ipfs, blockchain
 - Look back to the World Wide Web and its invention by Tim Berners-Lee in 1989 
 
-
-+++?include=intro/PITCHME.md
-
 ---?include=why/PITCHME.md
 
 ---?include=how/PITCHME.md
