@@ -117,19 +117,6 @@ The Reactive Manifesto
 
 ![Jeremy Rifkin about social entrepreneur](assets/image/quote-jeremy-rifkin.jpg)
 
-
-+++
-
-### what is possible?
-
-![WordCloud socioeconomics](assets/image/wc_socioeconomics.png)
-
-+++
-
-### things fall into place
-
-![WordCloud technical](assets/image/wc_technical.png)
-
 +++
 
 ![optimism is a duty](assets/image/quote-optimism-is-a-duty-the-future-is-open-it-is-not-predetermined-no-one-can-predict-it-karl-popper-146-31-11.jpg)
