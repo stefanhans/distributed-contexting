@@ -14,7 +14,7 @@
 - as simple as possible but not simpler |
 - as an hourglass protocol |
 - isomorphic, i.e. no server/client distinction |
-- SWIM(++) protocol for different aspects |
+- SWIM(++) protocol <br> for different membergroups |
 
 ---
 
