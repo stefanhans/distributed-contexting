@@ -8,9 +8,9 @@
 
 ### Structure and calculations
 
-- Merkle Trees (IPFS, git, blockchain) |
+- Merkle Trees <br> (IPFS, git, blockchain) |
 - Artificial Neural Networks |
-- Mathematical functions (hash, backpropagation) |
+- Mathematical functions <br> (hash, backpropagation) |
 
 +++
 
