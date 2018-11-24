@@ -25,7 +25,7 @@
 - infection-style |
 - process group membership protocol |
 - ++, i.e. piggybacking and suspicion mechanism |
-- "memberlist": Go implementation from HashiCorp |
+- "memberlist": <br> Go implementation from HashiCorp |
 
 ---
 
