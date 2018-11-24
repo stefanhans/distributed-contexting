@@ -28,7 +28,7 @@
 - connect peers with matching context |
 - functions define binary representations <br> - one strand of bits represents information <br> - one strand of bits represents relevance |
 - in the binary tree of permutations <br> the peers build an overlay-network |
-- the structure itself has no meaning, <br>is endless, and being act on by simple rules |
+- the structure itself has no meaning, <br>is endless, and acts on simple rules |
 <br> <br>
 
 +++?image=assets/image/contextingTree1.png&size=contain&transition=none
