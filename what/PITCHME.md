@@ -24,8 +24,8 @@
 - weakly-consistent |
 - infection-style |
 - process group membership protocol |
-- ++, i.e. piggybacking and suspicion mechanism |
-- "memberlist": <br> Go implementation from HashiCorp |
+- ++, i.e. piggybacking <br> and suspicion mechanism |
+- "memberlist": <br> HashiCorp's Go implementation |
 
 ---
 
