@@ -11,6 +11,10 @@
 [<i style="font-size:24px" class="fa">&#xf09b; distributed-contexting</i>](https://github.com/stefanhans/distributed-contexting)
 [<i style="font-size:24px" class="fa">&#xf09b; 101 go-libp2p</i>](https://github.com/stefanhans/go-present/tree/master/slides/libp2p)
 <br>
+[<i style="font-size:24px" class="fa">&#xf09b; go-libp2p</i>](https://github.com/libp2p/go-libp2p)
+[<i style="font-size:24px" class="fa">&#xf09b; go-ipfs</i>](https://github.com/ipfs/go-ipfs)
+[<i style="font-size:24px" class="fa">&#xf09b; multiformats</i>](https://github.com/multiformats)
+<br>
 [<i style="font-size:24px" class="fa">&#xf23a; One Small Step for the Web...</i>](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085)
 <br>
 [<i style="font-size:24px" class="fa">&#xf167; The End of Cloud Computing - Peter Levine</i>](https://www.youtube.com/watch?v=l9tOd6fHR-U&t=24s)
