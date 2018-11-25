@@ -14,6 +14,7 @@
 [<i style="font-size:24px" class="fa">&#xf09b; go-libp2p</i>](https://github.com/libp2p/go-libp2p)
 [<i style="font-size:24px" class="fa">&#xf09b; go-ipfs</i>](https://github.com/ipfs/go-ipfs)
 [<i style="font-size:24px" class="fa">&#xf09b; multiformats</i>](https://github.com/multiformats)
+[<i style="font-size:24px" class="fa">&#xf09b; ipld</i>](https://github.com/ipld)
 <br>
 [<i style="font-size:24px" class="fa">&#xf23a; One Small Step for the Web...</i>](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085)
 <br>
