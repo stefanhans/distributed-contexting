@@ -19,6 +19,11 @@
 - ai, data, and its economy of scale |
 - blockchain, common good, and money |
 
+Notes:
+
+The End of Cloud Computing - Peter Levine
+latency, amount of data, costs of cpu and storage against bandwith
+
 +++
 
 ## The big picture
