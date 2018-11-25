@@ -45,6 +45,10 @@
 
 ---
 
+![IPFS Waist](assets/image/ipfs-projects.png)
+
+---
+
 ![IPFS Multiformats](assets/image/ipfs-multiformats.jpg)
 
 ###### What about multicontext?
