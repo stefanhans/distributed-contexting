@@ -12,6 +12,8 @@
 <br>
 [<i style="font-size:24px" class="fa">&#xf23a; One Small Step for the Web...</i>](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085)
 <br>
+[<i style="font-size:24px" class="fa">&#xf23a; The End of Cloud Computing - Peter Levine</i>](https://www.youtube.com/watch?v=l9tOd6fHR-U&t=24s)
+<br>
 [<i style="font-size:24px" class="fa">&#xf1fa;</i>](mailto://stefanhans65@gmail.com)
 [<i style="font-size:24px" class="fa">&#xf099;</i>](https://twitter.com/stefanhans65)
 [<i style="font-size:24px" class="fa">&#xf08c;</i>](https://www.linkedin.com/in/stefan-hans-4545ab132/)
