@@ -54,16 +54,6 @@
 
 ---
 
-## Business case? USP?
-
-- almost no OPEX and no marginal costs |
-- inherently no commercial interest <br> on the platform |
-- data trading possibilities |
-- additional services |
-
----
-
-
 ## We are on the way!
 
 - cloud -> IPFS -> DAPPs |
@@ -124,4 +114,14 @@ The Reactive Manifesto
 +++
 
 ![optimism is a duty](assets/image/quote-optimism-is-a-duty-the-future-is-open-it-is-not-predetermined-no-one-can-predict-it-karl-popper-146-31-11.jpg)
+
+---
+
+## Business case? USP?
+
+- almost no OPEX and no marginal costs |
+- inherently no commercial interest <br> on the platform |
+- data trading possibilities |
+- additional services |
+
 
