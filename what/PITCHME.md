@@ -37,15 +37,15 @@
 
 ---
 
-![IPFS Projects](assets/image/ipfs-projects.png)
-
----
-
 ![IPFS Stack](assets/image/ipfs-stack.jpg)
 
 ---
 
 ![IPFS Waist](assets/image/ipfs-thin-waist.jpg)
+
+---
+
+![IPFS Projects](assets/image/ipfs-projects.png)
 
 ---
 
