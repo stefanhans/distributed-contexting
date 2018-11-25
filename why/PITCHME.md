@@ -12,7 +12,7 @@
 
 ---
 
-## The concentration of distributed systems
+### The concentration of distributed systems
 
  or between paradigms and reality
 - cloud, edge, and peer-to-peer computing |
