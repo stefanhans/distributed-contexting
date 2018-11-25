@@ -53,7 +53,7 @@
 
 ### go-libp2p and go-libp2p-examples
 
-[... to be continued ...](https://go-talks.appspot.com/github.com/stefanhans/go-present/slides/libp2p/101-libp2p.slide#1)
+[... to be continued ...](http://127.0.0.1:3999/slides/libp2p/go-libp2p.slide#1)
 
 ---
 

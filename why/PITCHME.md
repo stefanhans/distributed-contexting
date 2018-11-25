@@ -19,8 +19,6 @@
 - ai, data, and its economy of scale |
 - blockchain, common good, and money |
 
-
-
 +++
 
 ## The big picture
@@ -53,6 +51,15 @@
 ---
 
 ![Douglas Engelbart about collective](assets/image/quote-douglas-engelbart.jpg)
+
+---
+
+## Business case? USP?
+
+- almost no OPEX and no marginal costs
+- inherently no commercial interest on the platform
+- data trading possibilities
+- additional services
 
 ---
 
@@ -99,10 +106,7 @@ The Reactive Manifesto
 
 +++
 
-### and the business case?
-
 ![The DAO Quadrants](assets/image/dao-quadrants.jpg)
-
 
 
 ---
