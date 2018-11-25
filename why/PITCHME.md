@@ -57,7 +57,7 @@
 ## Business case? USP?
 
 - almost no OPEX and no marginal costs
-- inherently no commercial interest on the platform
+- inherently no commercial interest <br> on the platform
 - data trading possibilities
 - additional services
 
