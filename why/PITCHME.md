@@ -126,6 +126,7 @@ The Reactive Manifesto
 
 - almost no OPEX and no marginal costs |
 - inherently no commercial interest <br> on the platform |
+- application creation related services |
 - bootstrap services and alike |
 - data trading possibilities |
 - additional services |
