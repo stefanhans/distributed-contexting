@@ -83,6 +83,17 @@ The Reactive Manifesto
 
 ![The Reactive Manifesto](assets/image/reactive-manifesto.png)
 
+---
+
+## USP? Business case?
+
+- no OPEX and no marginal costs |
+- inherently no commercial interest <br> on the platform |
+- application creation related services |
+- bootstrap services and alike |
+- data trading possibilities |
+- additional services |
+
 
 ---
 
@@ -98,20 +109,6 @@ The Reactive Manifesto
 
 ![Web 2.0 - Web 3.0](assets/image/web2-3.0.png)
 
-
-+++
-
-![The DAO Quadrants](assets/image/dao-quadrants.jpg)
-
-
----
-
-## What can we achieve?
-
-- creating the digital world for us yourself |
-- application orchestration in all networks |
-- provide "interplanetary" for everything |
-
 +++
 
 ![Jeremy Rifkin about social entrepreneur](assets/image/quote-jeremy-rifkin.jpg)
@@ -120,15 +117,5 @@ The Reactive Manifesto
 
 ![optimism is a duty](assets/image/quote-optimism-is-a-duty-the-future-is-open-it-is-not-predetermined-no-one-can-predict-it-karl-popper-146-31-11.jpg)
 
----
-
-## USP? Business case?
-
-- no OPEX and no marginal costs |
-- inherently no commercial interest <br> on the platform |
-- application creation related services |
-- bootstrap services and alike |
-- data trading possibilities |
-- additional services |
 
 
