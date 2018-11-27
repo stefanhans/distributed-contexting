@@ -62,6 +62,7 @@
 ---
 
 ![thanks](assets/image/thanks.gif)
+---
 
 ## Thanks for your attention
 
