@@ -61,6 +61,5 @@
 
 ---
 
-![party](assets/image/giphy-3.gif)
+![party](assets/image/thanks.gif)
 
-### thank you
