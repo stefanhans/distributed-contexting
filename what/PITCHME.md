@@ -60,7 +60,6 @@
 [... to be continued ...](http://127.0.0.1:3999/slides/libp2p/go-libp2p.slide#1)
 
 ---
-### Thanks for your attention
 
 ![thanks](assets/image/thanks.gif)
 
