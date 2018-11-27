@@ -124,7 +124,7 @@ The Reactive Manifesto
 
 ## USP? Business case?
 
-- almost no OPEX and no marginal costs |
+- no OPEX and no marginal costs |
 - inherently no commercial interest <br> on the platform |
 - application creation related services |
 - bootstrap services and alike |
