@@ -89,8 +89,8 @@ The Reactive Manifesto
 
 ## Where do we stand?
 
-- orchestration inside a cloud -> inside the internet |
-- "interplanetary" in a few domains -> on all domains |
+- orchestration in the cloud -> in the internet |
+- "interplanetary" in a few domains -> globally |
 - being clients of very few -> being independent |
 
 
