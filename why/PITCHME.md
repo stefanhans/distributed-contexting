@@ -69,7 +69,7 @@ latency, amount of data, costs of cpu and storage against bandwith
 
 ### Vision of a distributed system
 
-- reactive, cost-free, and inherently created |
+- reactive, cost-free, and inherently operating |
 - unlimited context domain |
 - edge aware infrastructure |
 - encrypted by design |
