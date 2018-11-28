@@ -64,12 +64,5 @@
 ![thanks](assets/image/thanks.gif)
 
 ### Questions? Feedback?
----
-
-### Thanks for your attention
-
-![animated-network-sphere](assets/image/animated-network-sphere.gif)
-
-### Questions? Feedback?
 
 
