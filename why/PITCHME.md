@@ -12,7 +12,7 @@
 
 Note:
 
-### For me, a tipping point is a crossroad with fundamental directions. And tipping points occur in inconsistent situations, situations with contradictions.
+## For me, a tipping point is a crossroad with fundamental directions. And tipping points occur in inconsistent situations, situations with contradictions.
 
 For me, the main inconsistency in the domain of distributed systems is between distribution and concentration. 
 
