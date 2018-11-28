@@ -11,8 +11,12 @@
 <br>
 
 Note:
+# crossroad with fundamental directions, inconsistent situation, situation with contradiction, between distributio and concentration
 
-# tipping point = crossroad with fundamental directions - inconsistent situations, situations with contradictions. For me, the main inconsistency in the domain of distributed systems is between distribution and concentration. 
+
+A tipping point is like a crossroad with fundamental directions. And tipping points occur in inconsistent situations, situations with contradictions.
+
+For me, the main inconsistency in the domain of distributed systems is between distribution and concentration. 
 
 ---
 
