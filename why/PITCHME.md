@@ -77,7 +77,7 @@ Data Economy
 - cloud -> IPFS -> DAPPs |
 - data silos -> decentralized data exchange |
 - bitcoin -> blockchain-based computing |
-- But, hold on... |
+- But, hold on... 🤔 |
 
 Note:
 
@@ -89,9 +89,9 @@ Incentive engineering - Trent McDonaghy from Ocean Protocol
 
 ---
 
-Imagine Microsoft would have invented <br> the World Wide Web technology 😱😱😱😱😱
+Imagine Microsoft would have invented <br> the World Wide Web technology 😱
 
-Do you think the new internet will end up <br> controlled by the big fives 😱😱😱😱😱 <br> or disrupt them? 😌😌😌😌
+Do you think the new internet will end up <br> controlled by the big fives 😱😱 <br> or disrupt them? 😌😌😌
 
 At this crossroad, we are standing.
 
