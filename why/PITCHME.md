@@ -77,6 +77,7 @@ Data Economy
 - cloud -> IPFS -> DAPPs |
 - data silos -> decentralized data exchange |
 - bitcoin -> blockchain-based computing |
+- <b>But, hold on...</b> |
 
 Note:
 
