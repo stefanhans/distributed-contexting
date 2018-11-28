@@ -10,6 +10,12 @@
 <br>
 <br>
 
+Note:
+
+For me, a tipping point is a crossroad with fundamental directions. And tipping points occur in inconsistent situations, situations with contradictions.
+
+For me, the main inconsistency in the domain of distributed systems is between distribution and concentration. 
+
 ---
 
 ### The concentration of distributed systems
@@ -21,8 +27,15 @@
 
 Note:
 
+Clouds are distributed systems concentrated in mostly three big companies - Amazon, Google, and Microsoft. 
+Edge computing is mostly only a partial shift towards the edge of the network due to three reasons.
+Latency, the massiveness of data, and that the effectiveness of CPU and storage is growing faster than the bandwidth. 
+
 The End of Cloud Computing - Peter Levine
-latency, amount of data, costs of cpu and storage against bandwith
+
+Data Economy
+
+
 
 +++
 
@@ -64,6 +77,24 @@ latency, amount of data, costs of cpu and storage against bandwith
 - cloud -> IPFS -> DAPPs |
 - data silos -> decentralized data exchange |
 - bitcoin -> blockchain-based computing |
+
+Note:
+
+
+"We have all parts together and waiting for the killer app" - Juan Benet
+
+
+Incentive engineering - Trent McDonaghy from Ocean Protocol
+
+---
+
+Image Microsoft would have invented the World Wide Web technology 😱😱😱😱😱
+
+Do you think the new internet will end up at the big fives 😱😱😱😱😱 
+
+or disrupt them? 😌😌😌😌
+
+At this crossroad, we are standing.
 
 ---
 
