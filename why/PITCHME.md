@@ -25,7 +25,7 @@ For me, the main inconsistency in the domain of distributed systems is between d
  or between paradigms and reality
 - cloud, edge, and peer-to-peer computing |
 - ai, data, and its economy of scale |
-- blockchain, common good, and money |
+- blockchain, money, and energy consumption |
 
 Note:
 
