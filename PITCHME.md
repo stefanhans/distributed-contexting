@@ -4,9 +4,10 @@
 
 Note:
 
-What is distributed contexting? Distributed contexting is about distributed systems and contexting. Surprisingly, Contexting is hard to explain without its context which is actually distributed systems. I will start with distributed systems and come to contexting in a minute, so to speak.
+# One distributed system is ubiquitous. The internet. Here is a quote of a man who influenced it since nearly three decades and is still active.
 
-There is one distributed system which is ubiquitous. The internet. I will start with a quote of a man who influenced it since nearly three decades and is still active.
+
+What is distributed contexting? Distributed contexting is about distributed systems and contexting. Surprisingly, Contexting is hard to explain without its context which is actually distributed systems. I will start with distributed systems and come to contexting in a minute, so to speak.
 
 
 ---?include=why/PITCHME.md
