@@ -90,9 +90,7 @@ Incentive engineering - Trent McDonaghy from Ocean Protocol
 
 Image Microsoft would have invented <br> the World Wide Web technology 😱😱😱😱😱
 
-Do you think the new internet will end up at the big fives 😱😱😱😱😱 
-
-or disrupt them? 😌😌😌😌
+Do you think the new internet will end up <br> controlled by the big fives 😱😱😱😱😱 <br> or disrupt them? 😌😌😌😌
 
 At this crossroad, we are standing.
 
