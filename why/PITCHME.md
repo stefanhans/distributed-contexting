@@ -92,7 +92,7 @@ Image Microsoft would have invented <br> the World Wide Web technology 😱😱�
 
 Do you think the new internet will end up <br> controlled by the big fives 😱😱😱😱😱 <br> or disrupt them? 😌😌😌😌
 
-At this crossroad, we are standing. That's the tipping point.
+At this crossroad, we are standing.
 
 ---
 
