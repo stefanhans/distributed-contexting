@@ -1,3 +1,3 @@
 # distributed-contexting
 
-Repo for gitpitch - work in progress
+Repo for gitpitch - [Distributed Contexting](https://gitpitch.com/stefanhans/distributed-contexting#/)
